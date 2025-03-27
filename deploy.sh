@@ -39,4 +39,4 @@ git push origin gh-pages
 
 cd ..
 
-echo "¡Deploy completado! Visita https://manuelcaipocc.github.io/cv_mcaipocc/"
+echo "¡Deploy completado! Visita https://manuelcaipocc.github.io/cv-mcaipocc/"
