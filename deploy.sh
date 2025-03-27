@@ -17,7 +17,7 @@ cd public
 if [ ! -d ".git" ]; then
   echo "Inicializando repositorio..."
   git init
-  git remote add origin git@github.com:manuelcaipocc/cv_mcaipocc.git
+  git remote add origin git@github.com:manuelcaipocc/cv-mcaipocc.git
   git checkout -b gh-pages
 else
   echo "Repositorio ya inicializado."
