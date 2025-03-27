@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Manuel Caipo
+title: Chenhao Li
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Manuel
-last_name: Caipo
+first_name: Chenhao
+last_name: Li
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist and Data Engineer 
+role: Embodied Intelligence and Robot Learning
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HFU Hochschule Furtwangen
+  - name: ETH Zurich
     url: https://ethz.ch/en.html/
   - name: Massachusetts Institute of Technology
     url: https://www.mit.edu/
