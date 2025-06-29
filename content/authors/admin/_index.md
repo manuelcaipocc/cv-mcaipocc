@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Engineer & Data Scientist – Predictive Maintenance & IoT Specialist 
+role: Data Engineer-Scientist in Predictive Maintenance 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
