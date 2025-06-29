@@ -34,15 +34,15 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'manuelcaipocc@outlook.com'
-    label: E-mail me
+  #- icon: at-symbol
+  #url: 'manuelcaipocc@outlook.com'
+  #label: E-mail me
   - icon: brands/github
     url: https://github.com/manuelcaipocc
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/manuel-caipo-89845b151/
-  - icon: brands/youtube
-    url: https://www.youtube.com/channel/UCIozN1DVvgKYvNW-AKg-_dg/
+  # - icon: brands/youtube
+  #   url: https://www.youtube.com/channel/UCIozN1DVvgKYvNW-AKg-_dg/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?hl=en&user=kw1-DxQAAAAJ/
   - icon: academicons/cv
