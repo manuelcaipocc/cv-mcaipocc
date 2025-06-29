@@ -240,13 +240,18 @@ work:
 
 ## About Me
 
-I am a Data Scientist and Mechanical Engineer currently pursuing my Master's degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/), Germany. Alongside my studies, I work as a working student at [Bosch Rexroth](https://www.boschrexroth.com/), where I develop Docker-based ETL pipelines, integrate [Solace](https://solace.com/), and implement real-time monitoring systems for industrial hydraulic equipment.
+I am a Data Scientist and Mechanical Engineer currently pursuing a Master's degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/), Germany. Alongside my studies, I work at [Bosch Rexroth](https://www.boschrexroth.com/), developing Docker-based ETL pipelines and real-time monitoring systems for hydraulic equipment.
 
-I completed my Bachelor's degree in Mechanical Engineering at [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/), graduating top of my class out of 133 students. I was awarded the [Beca Presidente del Perú](https://www.pronabec.gob.pe/beca-presidente-de-la-republica/), one of the most competitive national scholarships in Peru, and was later selected from more than 16,000 applicants for one of only 100 positions at [Freeport-McMoRan](https://www.fcx.com/), where I worked for over three years applying Machine Learning for predictive maintenance in mining operations across the globe.
+I graduated top of my class in Mechanical Engineering at [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/). I was awarded the [Beca Presidente del Perú](https://www.pronabec.gob.pe/beca-presidente-de-la-republica/) and later selected among 16,000 applicants for one of 100 positions at [Freeport-McMoRan](https://www.fcx.com/), where I applied Machine Learning for predictive maintenance in global mining operations.
 
-Additionally, I worked at [IMCO Servicios S.A.C.](https://www.linkedin.com/company/imco-servicios-s-a-c/) as a Junior Engineer, developing structural analysis reports and simulations for industrial applications using tools like SAP2000, Inventor, and AutoCAD 3D.
+Previously, I worked at [IMCO Servicios S.A.C.](https://www.linkedin.com/company/imco-servicios-s-a-c/) as a Junior Engineer, performing structural analysis and simulations using SAP2000,Ansys, Inventor, and AutoCAD 3D.
 
-My technical focus lies at the intersection of data-driven intelligence and engineering systems. I combine my background in mechanical engineering with experience in Machine Learning, Deep Learning, time-series modeling, cloud infrastructure, and industrial data pipelines. My toolset includes Python, PostgreSQL, Azure ML, OPC UA, Solace, Docker, and Power BI.
+My technical focus lies at the intersection of engineering and intelligent systems. I specialize in:
 
-After self-studying German up to C1 level, I joined a fully German-taught Master's program. In the near future, I plan to pursue a Ph.D. in the fields of Robotics, Industrial AI, and Control Systems, with the goal of developing intelligent technologies that drive real-world innovation and benefit society at large.
+- Machine Learning and time-series modeling  
+- Dockerized ETL pipelines and cloud integration  
+- OPC UA, industrial communication, and monitoring  
+- Python, PostgreSQL, Power BI, Azure ML
+
+Fluent in Spanish, English, and German (C1). I aim to pursue a Ph.D. in Robotics, Control Systems, or Industrial AI, developing impactful technologies that bridge data and physical systems.
 
