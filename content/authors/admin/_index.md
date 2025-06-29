@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Chenhao Li
+title: Manuel Caipo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Chenhao
-last_name: Li
+first_name: Manuel
+last_name: Caipo
 
 # Status emoji
 status:
@@ -20,118 +20,149 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Embodied Intelligence and Robot Learning
+role: Data Engineer & Data Scientist – Predictive Maintenance & IoT Specialist 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ETH Zurich
-    url: https://ethz.ch/en.html/
-  - name: Massachusetts Institute of Technology
-    url: https://www.mit.edu/
+  - name: Hochschule Furtwangen
+    url: https://www.hs-furtwangen.de/
+  - name: Universidad Nacional de San Agustin de Arequipa
+    url: https://www.unsa.edu.pe/
+  - name: Universidad Catolica San Pablo
+    url: https://ucsp.edu.pe/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:chenhli@ethz.ch'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/breadli428
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+    url: 'manuelcaipocc@outlook.com'
+    label: E-mail me
   - icon: brands/github
-    url: https://github.com/breadli428
+    url: https://github.com/manuelcaipocc
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/chenhao-li-86080b1b0/
+    url: https://www.linkedin.com/in/manuel-caipo-89845b151/
   - icon: brands/youtube
     url: https://www.youtube.com/channel/UCIozN1DVvgKYvNW-AKg-_dg/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=kw1-DxQAAAAJ/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?hl=en&user=kw1-DxQAAAAJ/
   - icon: academicons/cv
     url: uploads/resume.pdf
 
 interests:
-  - Reinforcement Learning
-  - Developmental Robotics
-  - Legged Intelligence
+  - Smart Systems for Industrial Engineering and Robotics
+  - Technical Software Architecture & Data Automation for Industry 4.0
+  - Fusion of Data Science with Physical Modeling
 
 education:
-  - area: PhD in Artificial Intelligence
-    institution: ETH AI Center
-    date_start: 2023-11-01
+  - area: M.Sc. in Advanced Precision Engineering
+    institution: Hochschule Furtwangen
+    date_start: 2024-09-27
     date_end: ''
     summary: |
-      [ETH AI Center Doctoral Fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html) winner.
+      [Master of science](https://www.hs-furtwangen.de/studium/studiengaenge/advanced-precision-engineering-master).
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MSc in Robotics, Systems and Control
-    institution: ETH Zurich
-    date_start: 2020-09-01
-    date_end: 2023-07-31
+  - area: Diplom in Machine and deep Learning
+    institution: Universidad catolica san pablo
+    date_start: 2021-06-01
+    date_end: 2021-02-01
     summary: |
-      GPA: 5.98/6.0
+      GPA: 19.6/20.0
       
-      [ETH Medal](https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal/outstanding-master-theses.html) winner.
+    Courses included:
+      - Learn regression, classification, and clustering techniques
+      - Study probabilistic models like Naive Bayes and Bayesian Networks
+      - Master neural networks, including Transformer Models and  Convolutional Neural Networks
+      - Apply machine learning to natural language processing
+      - Explore deep learning for text and image processing
 
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Mechanical Engineering
-    institution: Tongji University
-    date_start: 2015-09-01
-    date_end: 2020-06-30
+    institution: Universidad Nacional de San Agustin de Arequipa
+    date_start: 2015-03-15
+    date_end: 2019-12-15
     summary: |
-      GPA: 4.92/5.0
+      GPA: 15.23/23.0
 
-      National Scholarship Winner, ranking the first in the department for five consecutive years. 
+      National Scholarship "Beca PResidente del Peru" Winner, ranking the first in the department for five consecutive years. 
       
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Courses included:
+    - Skilled in mechanical and structural design. 
+    - Optimization of fluid and hydraulic machinery. 
+    - Advanced knowledge in physics and calculations. 
+    - Solutions for machinery automation. 
+    - Strong ethics and communication skills. 
 work:
-  - position: Doctoral Fellow
-    company_name: ETH AI Center
-    company_url: 'https://ai.ethz.ch/'
-    company_logo: eth-ai-center
-    date_start: 2023-11-01
+  - position: Data Scientist – Werkstudent
+    company_name: Bosch Rexroth
+    company_url: 'https://www.boschrexroth.com/'
+    company_logo: bosch
+    date_start: 2024-11-01
     date_end: ''
     summary: |
-      Robot learning under the supervision of [Prof. Marco Hutter](https://mavt.ethz.ch/people/person-detail.hutter.html) and [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea).
-  - position: Visiting Researcher
-    company_name: Massachusetts Institute of Technology
-    company_url: 'https://www.mit.edu/'
-    company_logo: mit
-    date_start: 2023-01-01
-    date_end: 2023-08-31
+      • Designed and implemented an ETL pipeline in Docker for processing and storing industrial data in a data lake and relational database.  
+      • Integrated Solace as a message broker to optimize industrial data flow.  
+      • Developed a monitoring system for hydraulic systems to detect anomalies and analyze operating cycles.
+
+  - position: Junior Data Science Analyst 2
+    company_name: Freeport-McMoRan – Cerro Verde
+    company_url: 'https://www.fcx.com/'
+    company_logo: freeport
+    date_start: 2021-04-01
+    date_end: 2023-07-31
     summary: |
-      Human motion representation and developmental robotics under the supervision of [Prof. Sangbae Kim](https://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU).
-  - position: Research Intern
-    company_name: Max Planck Institute for Intelligent Systems
-    company_url: 'https://is.mpg.de/'
-    company_logo: mpi
-    date_start: 2022-04-01
-    date_end: 2022-12-31
+      • Scaled predictive wear models across global mining sites using Azure ML Jobs for automated predictions.  
+      • Optimized data preprocessing using SQL stored procedures for efficient ML training.  
+      • Deployed retraining automation processes to continuously update models with historical machine data.
+
+  - position: Junior Data Science Analyst 1
+    company_name: Freeport-McMoRan – Cerro Verde
+    company_url: 'https://www.fcx.com/'
+    company_logo: freeport
+    date_start: 2020-07-01
+    date_end: 2021-03-31
     summary: |
-      Agile motion imitation and intrinsic skill exploration under the supervision of [Prof. Georg Martius](https://al.is.mpg.de/person/gmartius).
-  - position: Teaching Assistant
-    company_name: ETH Zurich
-    company_url: 'https://ethz.ch/en.html/'
-    company_logo: eth
-    date_start: 2021-09-01
-    date_end: 2022-01-31
+      • Deployed ML models for daily wear prediction of primary crushers and cyclone pumps using Azure ML.  
+      • Automated reporting systems to compare current machine states with historical performance data.
+
+  - position: Junior Data Analyst 1 – Reliability Engineering
+    company_name: Freeport-McMoRan – Cerro Verde
+    company_url: 'https://www.fcx.com/'
+    company_logo: freeport
+    date_start: 2020-01-01
+    date_end: 2020-06-30
     summary: |
-      Tutorial delivery for Linear & Combinatorial Optimization (Mathematical Optimization, 11 ECTS) instructed by [Prof. Rico Zenklusen](https://math.ethz.ch/ifor/groups/zenklusen_group/rico-zenklusen.html).
-  - position: Research Assistant
-    company_name: École polytechnique fédérale de Lausanne (EPFL)
-    company_url: 'https://www.epfl.ch/en/'
-    company_logo: epfl
-    date_start: 2019-09-01
-    date_end: 2020-01-31
+      • Developed machine anomaly strategies based on historical failure analysis.  
+      • Created Power BI dashboards and reports for monitoring and decision-making.  
+      • Optimized SQL queries for faster data processing in maintenance analytics.
+
+  - position: Trainee Data Analyst – Reliability Engineering
+    company_name: Freeport-McMoRan – Cerro Verde
+    company_url: 'https://www.fcx.com/'
+    company_logo: freeport
+    date_start: 2019-07-01
+    date_end: 2019-12-31
     summary: |
-      Analysis, design and implementation of a bio-inspired passive tail for amphibious robots under the supervision of [Prof. Auke Ijspeert](https://www.epfl.ch/labs/biorob/people/ijspeert).
+      • Performed long-term analysis of equipment availability and operational patterns.  
+      • Focused on primary crushers, conveyors, cyclone pumps, ball mills, and HPGR systems.
+
+  - position: Junior Engineer – Technical and Development
+    company_name: IMCO Servicios S.A.C
+    company_url: 'https://www.linkedin.com/company/imco-servicios-s-a-c/'
+    company_logo: imco
+    date_start: 2020-08-01
+    date_end: 2021-03-31
+    summary: |
+      • Created structural calculation reports using simulation software like SAP2000, Inventor, and AutoCAD 3D.
+
+  - position: Intern – Reliability Engineering
+    company_name: Freeport-McMoRan – Cerro Verde
+    company_url: 'https://www.fcx.com/'
+    company_logo: freeport
+    date_start: 2020-01-01
+    date_end: 2020-06-30
+    summary: |
+      • Optimized production processes using multiphysics CFD simulations with tools such as Ansys Structural, Fluent, Tekla, and Ametank.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -209,8 +240,13 @@ work:
 
 ## About Me
 
-I am currently a doctoral fellow advised by [Prof. Marco Hutter](https://mavt.ethz.ch/people/person-detail.hutter.html) and [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea) at [ETH AI Center](https://ai.ethz.ch/), Switzerland. Before that, I received my master's degree in [Robotics, Systems and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html) from [ETH Zurich](https://ethz.ch/en.html) and my bachelor’s degree from [Tongji University](https://en.tongji.edu.cn/).
+I am a Data Scientist and Mechanical Engineer currently pursuing my Master's degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/), Germany. Alongside my studies, I work as a working student at [Bosch Rexroth](https://www.boschrexroth.com/), where I develop Docker-based ETL pipelines, integrate [Solace](https://solace.com/), and implement real-time monitoring systems for industrial hydraulic equipment.
 
-During my master studies, I worked on structured motion representation and active learning methods at the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) with [Prof. Sangbae Kim](https://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU). Prior to that, I was engaged in agile motion imitation from limited demonstrations and intrinsic skill exploration with [Prof. Georg Martius](https://al.is.mpg.de/person/gmartius) at the [Autonomous Learning Group](https://al.is.mpg.de/) at [Max Planck Institute for Intelligent Systems (MPI-IS)](https://is.mpg.de/), Tübingen, Germany.
+I completed my Bachelor's degree in Mechanical Engineering at [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/), graduating top of my class out of 133 students. I was awarded the [Beca Presidente del Perú](https://www.pronabec.gob.pe/beca-presidente-de-la-republica/), one of the most competitive national scholarships in Peru, and was later selected from more than 16,000 applicants for one of only 100 positions at [Freeport-McMoRan](https://www.fcx.com/), where I worked for over three years applying Machine Learning for predictive maintenance in mining operations across the globe.
 
-My research interests focus on algorithms that can enable autonomous agents to acquire complex behaviors through learning, especially general-purpose methods that could enable any autonomous system to learn to solve any task. On legged robots particularly, I am thrilled to apply these techniques to achieve animal-level agility and naturalness.
+Additionally, I worked at [IMCO Servicios S.A.C.](https://www.linkedin.com/company/imco-servicios-s-a-c/) as a Junior Engineer, developing structural analysis reports and simulations for industrial applications using tools like SAP2000, Inventor, and AutoCAD 3D.
+
+My technical focus lies at the intersection of data-driven intelligence and engineering systems. I combine my background in mechanical engineering with experience in Machine Learning, Deep Learning, time-series modeling, cloud infrastructure, and industrial data pipelines. My toolset includes Python, PostgreSQL, Azure ML, OPC UA, Solace, Docker, and Power BI.
+
+After self-studying German up to C1 level, I joined a fully German-taught Master's program. In the near future, I plan to pursue a Ph.D. in the fields of Robotics, Industrial AI, and Control Systems, with the goal of developing intelligent technologies that drive real-world innovation and benefit society at large.
+
