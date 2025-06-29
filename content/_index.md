@@ -16,7 +16,7 @@ sections:
     design:
       background:
         image:
-          filename: sequence.png
+          filename: iot.png
           filters:
             brightness: 0.5
         text_color_light: true
