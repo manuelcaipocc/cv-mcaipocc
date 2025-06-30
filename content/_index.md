@@ -91,33 +91,73 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]
   - block: markdown
-    id: news
+    id: professional_timeline
     content:
-      title: News
+      title: Professional Journey
       text: |-
         <div>
+          <!-- Current Role -->
           <details open>
-            <summary><strong>2025</strong></summary>
-            <div style="margin-left:6px; padding-left:20px; border-left:1px solid;">
-              <details open>
-                <summary>
-                  <strong style="color:rgb(0,102,204);">Jun 30: Launched personal research page.</strong>
-                </summary>
-                My page now features work in predictive maintenance, robotics dynamics and symbolic machine learning for physical systems.
-              </details>
+            <summary><strong>2024-Present | Data Scientist Werkstudent - Bosch Rexroth (Ulm, Germany)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
+              <ul>
+                <li><strong>Industrial ETL Architecture:</strong> Built Dockerized pipelines processing 2TB/day of hydraulic system data into Azure Data Lake + PostgreSQL with 99.8% uptime</li>
+                <li><strong>Real-time Monitoring:</strong> Developed anomaly detection for 150+ hydraulic components using Solace message queues (15ms latency)</li>
+                <li><strong>Predictive Maintenance:</strong> Deployed PyTorch models analyzing 10M+ operational cycles monthly</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- Freeport-McMoRan Era -->
+          <details open>
+            <summary><strong>2021-2023 | Data Science Lead - Freeport-McMoRan (Global Mining Operations)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #e74c3c;">
               <details>
-                <summary><strong>May 15: Completed SCARA robot dynamics model in MATLAB.</strong></summary>
-                Built full symbolic Lagrangian model with numerical evaluation using real joint trajectories.
+                <summary><strong>Presidential Award - July 2022</strong></summary>
+                <div style="margin-left:20px;">
+                  Recognized for developing predictive wear models for primary crushers ("chancadoras primarias") that reduced maintenance costs by $1.2M/year across 6 mines
+                </div>
               </details>
-              <details>
-                <summary><strong>Feb 01: Started working student role at Bosch Rexroth.</strong></summary>
-                Developing industrial ETL pipelines for hydraulic modules using Docker, PostgreSQL and Solace.
-              </details>
+              <ul>
+                <li><strong>Global ML Scaling:</strong> Productionized Azure ML Jobs serving daily predictions for 200+ heavy assets (crushers, HPGRs, ball mills)</li>
+                <li><strong>Data Infrastructure:</strong> Optimized SQL Stored Procedures reducing ML training data prep time from 8h → 22min</li>
+                <li><strong>Continuous Learning:</strong> Implemented automated retraining pipelines using 5 years of historical operational data</li>
+                <li><strong>Decision Intelligence:</strong> Created Power BI dashboards monitoring 35+ KPIs for maintenance planning</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- Early Career -->
+          <details>
+            <summary><strong>2015-2021 | Engineering Foundations (Perú)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #2ecc71;">
+              <ul>
+                <li><strong>IMCO Servicios (2018-2021):</strong> Concurrent internships during undergraduate studies:
+                  <ul>
+                    <li>Finite element analysis for mining structures (SAP2000/Inventor)</li>
+                    <li>CFD simulations improving processing plant efficiency by 12%</li>
+                  </ul>
+                </li>
+                <li><strong>Academic Excellence:</strong> Top-ranked mechanical engineering graduate (UNSA, 2019)</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- Education -->
+          <details>
+            <summary><strong>Academic Milestones</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
+              <ul>
+                <li><strong>M.Sc. Advanced Precision Engineering</strong> (HFU, 2024-present)</li>
+                <li><strong>Postgrad. Machine Learning</strong> (UCSP, 2021-2022)</li>
+                <li><strong>B.Eng. Mechanical Engineering</strong> (UNSA, 2015-2019) with parallel industry training</li>
+              </ul>
             </div>
           </details>
         </div>
     design:
       columns: 2
+      css_class: professional-timeline
   - block: collection
     id: publications
     content:
@@ -130,17 +170,17 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      count: 0
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     count: 0
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   - block: resume-experience
     id: experience
     content:
@@ -150,29 +190,29 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      count: 0
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    id: platforms
-    content:
-      title: Robotic Platforms
-      subtitle: I Learned and Grew up with
-      count: 0
-      filters:
-        folders:
-          - platform
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     count: 0
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  # - block: collection
+  #   id: platforms
+  #   content:
+  #     title: Robotic Platforms
+  #     subtitle: I Learned and Grew up with
+  #     count: 0
+  #     filters:
+  #       folders:
+  #         - platform
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: markdown
     id: contact
     content:
@@ -186,13 +226,10 @@ sections:
       buttons:
         - text: E-mail
           icon: at-symbol
-          url: mailto:chenhli@ethz.ch
-        - text: Message
-          icon: brands/x
-          url: https://x.com/breadli428
+          url: mailto:manuelcaipocc@outlook.com
         - text: Connect
           icon: brands/linkedin
-          url: https://www.linkedin.com/in/chenhao-li-86080b1b0/
+          url: https://www.linkedin.com/in/manuel-caipo-89845b151/
     design:
       columns: 2
   # - block: cta-card
