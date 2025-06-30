@@ -101,9 +101,9 @@ sections:
             <summary><strong>2024-Present | Data Scientist Werkstudent - Bosch Rexroth (Ulm, Germany)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
               <ul>
-                <li><strong>Industrial ETL Architecture:</strong> Built Dockerized pipelines processing 2TB/day of hydraulic system data into Azure Data Lake + PostgreSQL with 99.8% uptime</li>
-                <li><strong>Real-time Monitoring:</strong> Developed anomaly detection for 150+ hydraulic components using Solace message queues (15ms latency)</li>
-                <li><strong>Predictive Maintenance:</strong> Deployed PyTorch models analyzing 10M+ operational cycles monthly</li>
+                <li><strong>Industrial ETL Architecture:</strong> Built Dockerized pipelines of hydraulic system data into Data Lake + PostgreSQL with 99.8% uptime</li>
+                <li><strong>Real-time Monitoring:</strong> Developed anomaly detection for hydraulic components using Solace message queues (100ms latency)</li>
+                <li><strong>Predictive Maintenance:</strong> Deployed PyTorch models analyzing operational cycles monthly</li>
               </ul>
             </div>
           </details>
@@ -134,7 +134,7 @@ sections:
               <ul>
                 <li><strong>IMCO Servicios (2018-2021):</strong> Concurrent internships during undergraduate studies:
                   <ul>
-                    <li>Finite element analysis for mining structures (SAP2000/Inventor)</li>
+                    <li>Finite element analysis for mining structures (SAP2000/Inventor/Ansys fluent-Structural)</li>
                     <li>CFD simulations improving processing plant efficiency by 12%</li>
                   </ul>
                 </li>

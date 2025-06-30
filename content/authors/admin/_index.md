@@ -77,12 +77,12 @@ education:
       - Apply machine learning to natural language processing
       - Explore deep learning for text and image processing
 
-  - area: BSc in Mechanical Engineering
+  - area: B.Sc. in Mechanical Engineering
     institution: Universidad Nacional de San Agustin de Arequipa
     date_start: 2015-03-15
     date_end: 2019-12-15
     summary: |
-      GPA: 15.23/23.0
+      GPA: 15.23/20.0
 
       National Scholarship "Beca PResidente del Peru" Winner, ranking the first in the department for five consecutive years. 
       
@@ -153,7 +153,7 @@ work:
     date_start: 2020-08-01
     date_end: 2021-03-31
     summary: |
-      • Created structural calculation reports using simulation software like SAP2000, Inventor, and AutoCAD 3D.
+      • Created structural calculation reports using simulation software like SAP2000, Inventor, Ansys Structural - Fluent and AutoCAD 3D.
 
   - position: Intern – Reliability Engineering
     company_name: Freeport-McMoRan – Cerro Verde
