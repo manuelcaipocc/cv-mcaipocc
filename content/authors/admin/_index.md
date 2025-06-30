@@ -84,7 +84,7 @@ education:
     summary: |
       GPA: 15.23/20.0
 
-      National Scholarship "Beca PResidente del Peru" Winner, ranking the first in the department for five consecutive years. 
+      National Scholarship "Beca Presidente del Peru" Winner, ranking the first in the department for five consecutive years. 
       
     Courses included:
     - Skilled in mechanical and structural design. 
