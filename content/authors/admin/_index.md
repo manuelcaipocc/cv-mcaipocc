@@ -244,14 +244,20 @@ I am a Data Scientist and Mechanical Engineer currently pursuing a Master's degr
 
 I graduated top of my class in Mechanical Engineering at [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/). I was awarded the [Beca Presidente del Perú](https://www.pronabec.gob.pe/beca-presidente-de-la-republica/) and later selected among 16,000 applicants for one of 100 positions at [Freeport-McMoRan](https://www.fcx.com/), where I applied Machine Learning for predictive maintenance in global mining operations.
 
-Previously, I worked at [IMCO Servicios S.A.C.](https://www.linkedin.com/company/imco-servicios-s-a-c/) as a Junior Engineer, performing structural analysis and simulations using SAP2000,Ansys, Inventor, and AutoCAD 3D.
+My work bridges engineering and intelligent systems, with a strong emphasis on practical implementation and scalable solutions. I specialize in:
 
-My technical focus lies at the intersection of engineering and intelligent systems. I specialize in:
+- **Machine Learning & Time-Series Modeling**  
+  Predictive maintenance, anomaly detection, and signal analysis using Python, PyTorch, and scikit-learn.
 
-- Machine Learning and time-series modeling  
-- Dockerized ETL pipelines and cloud integration  
-- OPC UA, industrial communication, and monitoring  
-- Python, PostgreSQL, Power BI, Azure ML
+- **Dockerized ETL Pipelines & Cloud Integration**  
+  Modular, real-time data pipelines built with Dagster, orchestrated in Docker, and deployed on cloud platforms like Azure.
 
-Fluent in Spanish, English, and German (C1). I aim to pursue a Ph.D. in Robotics, Control Systems, or Industrial AI, developing impactful technologies that bridge data and physical systems.
+- **Industrial Communication & Monitoring (OPC UA)**  
+  Design and implementation of robust monitoring architectures using OPC UA for data acquisition in manufacturing systems.
+
+- **Technology Stack**  
+  Python, PostgreSQL, Power BI, Git, Azure ML — integrated into reliable and reproducible workflows.
+
+
+I aim to pursue a Ph.D. in Robotics, Control Systems, or Industrial AI, developing impactful technologies that bridge data and physical systems.
 
