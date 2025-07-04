@@ -16,7 +16,7 @@ sections:
     design:
       background:
         image:
-          filename: iot.png
+          filename: test.gif
           filters:
             brightness: 0.5
         text_color_light: true
@@ -37,7 +37,7 @@ sections:
     design:
       background:
         image:
-          filename: iot.png
+          filename: test.gif
           filters:
             brightness: 0.5
         text_color_light: true
