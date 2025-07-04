@@ -240,7 +240,7 @@ work:
 
 ## About Me
 
-I am a Data Scientist and Mechanical Engineer currently pursuing a Master's degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/), Germany. Alongside my studies, I work at [Bosch Rexroth](https://www.boschrexroth.com/), developing Docker-based ETL pipelines and real-time monitoring systems for hydraulic equipment.
+I am a Data Scientist and Mechanical Engineer currently pursuing a Master's degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen](https://www.hs-furtwangen.de/), Germany. Alongside my studies, I work at [Bosch Rexroth](https://www.boschrexroth.com/), developing Docker-based ETL pipelines and real-time monitoring systems for hydraulic equipment.
 
 I graduated top of my class in Mechanical Engineering at [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/). I was awarded the [Beca Presidente del Perú](https://www.pronabec.gob.pe/beca-presidente-de-la-republica/) and later selected among 16,000 applicants for one of 100 positions at [Freeport-McMoRan](https://www.fcx.com/), where I applied Machine Learning for predictive maintenance in global mining operations.
 
