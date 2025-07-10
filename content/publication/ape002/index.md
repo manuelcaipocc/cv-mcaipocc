@@ -15,7 +15,7 @@ publishDate: '2025-06-20T00:00:00Z'
 publication_types: ['report']
 
 publication: Technical Report, Furtwangen University
-publication_short: APE-PT-0001
+publication_short: APE
 
 abstract: |
   Diese Arbeit untersucht die Anwendung Künstlicher Intelligenz (KI) in der Präzisionsmesstechnik. Sie beginnt mit einer Darstellung der theoretischen Grundlagen der Messtechnik sowie der Künstlichen Intelligenz und des Maschinellen Lernens. Im Anschluss werden konkrete Anwendungen wie Objektlokalisierung, Kantenerkennung und Anomaliedetektion beschrieben. Es werden neuronale Netzwerke für Regressions- und Klassifikationsaufgaben in MATLAB entwickelt. Abschließend erfolgt eine Bewertung der Netzwerkstrategien hinsichtlich Genauigkeit, Robustheit und Echtzeitfähigkeit.
@@ -28,7 +28,7 @@ links:
   - name: GitHub Repository
     url: 'https://github.com/manuelcaipocc/KI-in-der-Messtechnik'
 
-url_pdf: 'https://www.researchgate.net/publication/393129467_Kunstliche_Intelligenz_in_der_Prazisionsmesstechnik'
+url_pdf: 'https://www.researchgate.net/publication/393551196_Kunstliche_Intelligenz_in_der_Prazisionsmesstechnik'
 url_code: 'https://github.com/manuelcaipocc/KI-in-der-Messtechnik'
 url_project: ''
 url_video: ''
