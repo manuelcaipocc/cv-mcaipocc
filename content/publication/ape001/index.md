@@ -1,5 +1,5 @@
 ---
-title: 'Symbolic and Dynamic Modeling of a 5-DoF SCARA Robot for Loco-Manipulation Analysis'
+title: 'Dynamic Modeling and Control of a 5-DoF SCARA Robot using MATLAB and ROS2'
 
 authors:
   - Manuel Caipo
@@ -13,7 +13,7 @@ date: '2025-06-26T00:00:00Z'
 publishDate: '2025-06-26T00:00:00Z'
 doi: ''
 publication_types: ['technicalReport']
-publication: In *Hochschule Furtwangen University – Robotik Modul*
+publication: In *Hochschule Furtwangen – Robotik*
 publication_short: In *HFU Robotik*
 
 abstract: >
@@ -23,7 +23,7 @@ summary: Symbolic and numerical dynamic modeling of a SCARA robot with ROS2 and 
 
 featured: true
 
-url_pdf: 'https://www.researchgate.net/publication/393129834_Dynamische_Auslegung_vonWerkzeugmaschinen_Robotern_und_Bewegungsachsen'
+url_pdf: 'https://www.researchgate.net/publication/393129834_Dynamic_Modeling_and_Control_of_a_5-DoF_SCARA_Robot_using_MATLAB_and_ROS2'
 url_code: 'https://github.com/manuelcaipocc/scara-robot-ros-simulation'
 url_video: 'https://www.youtube.com/watch?v=Acui3rvVx0w&ab_channel=ManuelAlbertoCaipoCcoa'
 
