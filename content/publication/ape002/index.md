@@ -28,11 +28,7 @@ links:
   - name: GitHub Repository
     url: 'https://github.com/manuelcaipocc/KI-in-der-Messtechnik'
 
-<<<<<<< HEAD
 url_pdf: 'https://zenodo.org/records/15853514'
-=======
-url_pdf: 'https://www.researchgate.net/publication/393551196_Kunstliche_Intelligenz_in_der_Prazisionsmesstechnik'
->>>>>>> 53baa09419e0eb03339fad93f1fd193f3ffd3301
 url_code: 'https://github.com/manuelcaipocc/KI-in-der-Messtechnik'
 url_project: ''
 url_video: ''
