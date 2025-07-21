@@ -98,12 +98,12 @@ sections:
         <div>
           <!-- Current Role -->
           <details open>
-            <summary><strong>2024-Present | Data Scientist Werkstudent - Bosch Rexroth (Ulm, Germany)</strong></summary>
+            <summary><strong>2024–Present | Data Scientist Werkstudent – Bosch Rexroth (Ulm, Germany)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
               <ul>
-                <li><strong>Industrial ETL Architecture:</strong> Built Dockerized pipelines of hydraulic system data into Data Lake + PostgreSQL with 99.8% uptime</li>
-                <li><strong>Real-time Monitoring:</strong> Developed anomaly detection for hydraulic components using Solace message queues (100ms latency)</li>
-                <li><strong>Predictive Maintenance:</strong> Deployed PyTorch models analyzing operational cycles monthly</li>
+                <li><strong>Industrial ETL Pipeline:</strong> Designed and implemented a complete ETL process to transmit CtrlX sensor data to a relational database via Solace messaging, fully containerized in Docker</li>
+                <li><strong>Data Processing Optimization:</strong> Developed and optimized stored procedures for restructuring raw sensor streams into machine-learning-ready formats</li>
+                <li><strong>RUL Prediction & Orchestration:</strong> Built predictive models for Remaining Useful Life (RUL) of hydraulic systems using Hidden Markov Models, clustering, and XGBoost — all orchestrated via Dagster</li>
               </ul>
             </div>
           </details>
