@@ -160,7 +160,6 @@ sections:
             [<span data-goatcounter-show="manuelcaipocc.goatcounter.com">0</span> views]
           </div>
 
-          <script data-goatcounter="https://manuelcaipocc.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
         </div>
     design:
