@@ -265,3 +265,4 @@ My work bridges engineering and intelligent systems, with a strong emphasis on p
 
 I aim to pursue a Ph.D. in Robotics, Control Systems, or Industrial AI, developing impactful technologies that bridge data and physical systems.
 
+<small><a href="https://manuelcaipocc.goatcounter.com/" target="_blank" style="color: rgba(0, 0, 0, 0.1); text-decoration: none;">Analytics</a></small>

@@ -155,12 +155,6 @@ sections:
             </div>
           </details>
 
-          <!-- Analytics (sutil, pero visible) -->
-          <div style="text-align: right; font-size: 0.6rem; color: rgba(0, 0, 0, 0.25); font-family: monospace; margin-top: 8px;">
-            [<span data-goatcounter-show="manuelcaipocc.goatcounter.com">0</span> views]
-          </div>
-
-
         </div>
     design:
       columns: 2
