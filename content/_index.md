@@ -155,17 +155,12 @@ sections:
             </div>
           </details>
 
-          <!-- Analytics (versión ultra stealth en details) -->
-          <details>
-            <summary style="color: transparent; height: 1px; margin: 0; padding: 0;">
-              <span style="display: none;">Analytics</span>
-            </summary>
-            <div style="margin-left:6px; padding-left:20px; border-left:1px solid rgba(0,0,0,0);">
-              <div style="text-align: right; font-size: 0.6rem; color: rgba(0,0,0,0.25); font-family: monospace;">
-                [<span data-goatcounter-show="manuelcaipocc.goatcounter.com">0</span> views]
-              </div>
-            </div>
-          </details>
+          <!-- Analytics (sutil, pero visible) -->
+          <div style="text-align: right; font-size: 0.6rem; color: rgba(0, 0, 0, 0.25); font-family: monospace; margin-top: 8px;">
+            [<span data-goatcounter-show="manuelcaipocc.goatcounter.com">0</span> views]
+          </div>
+
+          <script data-goatcounter="https://manuelcaipocc.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
         </div>
     design:
