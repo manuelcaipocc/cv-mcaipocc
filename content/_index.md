@@ -232,6 +232,25 @@ sections:
           url: https://www.linkedin.com/in/manuel-caipo-89845b151/
     design:
       columns: 2
+  - block: markdown
+    id: analytics_counter
+    content:
+      text: |-
+        <div style="text-align: center; margin: 30px 0 10px 0; font-family: 'Segoe UI', system-ui, sans-serif;">
+          <div style="font-size: 0.75rem; color: rgba(0,0,0,0.45); letter-spacing: 0.5px;">
+            ANALYTICS
+          </div>
+          <div style="font-size: 2rem; font-weight: 300; color: rgba(0,0,0,0.15); line-height: 1.2; margin-top: -5px;" 
+              data-goatcounter-show="manuelcaipocc.goatcounter.com">
+            0
+          </div>
+          <div style="font-size: 0.65rem; color: rgba(0,0,0,0.3); margin-top: -8px;">
+            unique visitors
+          </div>
+        </div>
+    design:
+      spacing:
+        padding: ["0px", "0px", "20px", "0px"]
   # - block: cta-card
   #   demo: true # Only display this section in the Hugo Blox Builder demo site
   #   content:
