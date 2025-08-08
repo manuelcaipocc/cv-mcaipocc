@@ -23,7 +23,7 @@ summary: Symbolic and numerical dynamic modeling of a SCARA robot with ROS2 and 
 
 featured: true
 
-url_pdf: 'https://www.researchgate.net/publication/393129834_Dynamic_Modeling_and_Control_of_a_5-DoF_SCARA_Robot_using_MATLAB_and_ROS2'
+url_pdf: 'https://zenodo.org/records/15852916'
 url_code: 'https://github.com/manuelcaipocc/scara-robot-ros-simulation'
 url_video: 'https://www.youtube.com/watch?v=Acui3rvVx0w&ab_channel=ManuelAlbertoCaipoCcoa'
 

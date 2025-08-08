@@ -240,9 +240,13 @@ work:
 
 ## About Me
 
-I am a Data Scientist and Mechanical Engineer currently pursuing a Master's degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen](https://www.hs-furtwangen.de/), Germany. Alongside my studies, I work at [Bosch Rexroth](https://www.boschrexroth.com/), developing Docker-based ETL pipelines and real-time monitoring systems for hydraulic equipment.
+I’m a Data Scientist and Mechanical Engineer, currently pursuing a Master’s degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen](https://www.hs-furtwangen.de/) in Germany.
 
-I graduated top of my class in Mechanical Engineering at [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/). I was awarded the [Beca Presidente del Perú](https://www.pronabec.gob.pe/beca-presidente-de-la-republica/) and later selected among 16,000 applicants for one of 100 positions at [Freeport-McMoRan](https://www.fcx.com/), where I applied Machine Learning for predictive maintenance in global mining operations.
+Alongside my academic journey, I work at [Bosch Rexroth](https://www.boschrexroth.com/), where I design and implement **Docker-based ETL pipelines** and **real-time monitoring systems** for hydraulic systems. My role focuses on connecting physical systems with intelligent software solutions, contributing to the future of industrial automation.
+
+My story begins in Peru, where I graduated top of my class in Mechanical Engineering from the [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/). My academic excellence earned me the prestigious [Beca Presidente del Perú](https://www.pronabec.gob.pe/concursos-becas-creditos/), a national scholarship awarded to students with the highest performance in the country.
+
+Later, I was selected as one of 100 finalists out of 16,000 applicants to join [Freeport-McMoRan](https://www.fcx.com/), where I applied **Machine Learning** for **predictive maintenance (Remaining Useful Life)** across global mining operations—combining data science with high-stakes, real-world engineering.
 
 My work bridges engineering and intelligent systems, with a strong emphasis on practical implementation and scalable solutions. I specialize in:
 
@@ -256,8 +260,9 @@ My work bridges engineering and intelligent systems, with a strong emphasis on p
   Design and implementation of robust monitoring architectures using OPC UA for data acquisition in manufacturing systems.
 
 - **Technology Stack**  
-  Python, PostgreSQL, Power BI, Git, Azure ML — integrated into reliable and reproducible workflows.
+  Python, PostgreSQL, Power BI/Grafana, Git, Azure ML — integrated into reliable and reproducible workflows.
 
 
 I aim to pursue a Ph.D. in Robotics, Control Systems, or Industrial AI, developing impactful technologies that bridge data and physical systems.
 
+<small><a href="https://manuelcaipocc.goatcounter.com/" target="_blank" style="color: rgba(0, 0, 0, 0.1); text-decoration: none;">Analytics</a></small>
