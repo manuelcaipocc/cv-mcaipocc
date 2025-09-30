@@ -25,7 +25,7 @@ summary: >
 
 featured: true
 
-url_pdf: 'https://www.researchgate.net/publication/393130024_Design_of_a_350_TPH_Copper_Concentrate_Feeding_Conveyor_Belt_with_Automated_Hydraulic_Tensioning_System_and_Receiving_Hopper'
+url_pdf: 'https://zenodo.org/records/17233982'
 
 url_poster: 'https://alicia.concytec.gob.pe/vufind/Record/UNSA_c8b5c29fe0dbb14a4528d55f986f7ae1'
 # Optional project linking
