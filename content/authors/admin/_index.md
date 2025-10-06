@@ -255,7 +255,7 @@ I am open to full-time opportunities where I can apply my expertise in scalable 
 I began my journey in Peru, where I graduated top of my class in Mechanical Engineering from the [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/).  
 My academic performance earned me the prestigious [Beca Presidente del Perú](https://www.pronabec.gob.pe/concursos-becas-creditos/), a national full scholarship awarded to the country’s top students.
 
-After graduation, I was selected as one of 100 finalists out of 16,000 applicants to join [Freeport-McMoRan](https://www.fcx.com/), where I developed Machine Learning solutions for predictive maintenance (Remaining Useful Life)** across global mining operations, combining: data science, reliability engineering, and real-world industrial systems.
+After graduation, I was selected as one of 100 finalists out of 16,000 applicants to join [Freeport-McMoRan](https://www.fcx.com/), where I developed Machine Learning solutions for predictive maintenance (Remaining Useful Life) across global mining operations, combining: data science, reliability engineering, and real-world industrial systems.
 
 Currently, at [Bosch Rexroth](https://www.boschrexroth.com/), I design and orchestrate Docker-based ETL pipelines, real-time monitoring systems, and machine/deep learning models for predictive maintenance of hydraulic systems.  
 My work bridges industrial automation and AI-driven data architectures, connecting physical assets with scalable, intelligent software systems.
