@@ -110,7 +110,7 @@ sections:
 
           <!-- Freeport-McMoRan Era -->
           <details open>
-            <summary><strong>2021–2023 | Data Science Lead – Freeport-McMoRan (Global Mining Operations)</strong></summary>
+            <summary><strong>2021–2023 | Data Science – Freeport-McMoRan (Global Mining Operations)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #e74c3c;">
               <details>
                 <summary><strong>Presidential Award – July 2022</strong></summary>
