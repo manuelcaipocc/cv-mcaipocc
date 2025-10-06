@@ -20,16 +20,15 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Engineer-Scientist in Predictive Maintenance 
+role: Data Engineer-Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: University Ulm
+    url: https://www.uni-ulm.de/en/
   - name: Hochschule Furtwangen
     url: https://www.hs-furtwangen.de/
-  - name: Universidad Nacional de San Agustin de Arequipa
-    url: https://www.unsa.edu.pe/
-  - name: Universidad Catolica San Pablo
-    url: https://ucsp.edu.pe/
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,10 +53,20 @@ interests:
   - Fusion of Data Science with Physical Modeling
 
 education:
+  - area: M.Sc. Computational Science and Engineering
+    institution: University Ulm
+    date_start: 2025-10-13
+    date_end: ''
+    summary: |
+      [Master of science](https://www.uni-ulm.de/en/study/study-at-ulm-university/study-programmes/course-information/course/computational-science-and-engineering-master/).
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+
   - area: M.Sc. in Advanced Precision Engineering
     institution: Hochschule Furtwangen
     date_start: 2024-09-27
-    date_end: ''
+    date_end: '2026-03-01'
     summary: |
       [Master of science](https://www.hs-furtwangen.de/studium/studiengaenge/advanced-precision-engineering-master).
     # button:
