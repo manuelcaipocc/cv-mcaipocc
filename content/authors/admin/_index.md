@@ -249,27 +249,36 @@ work:
 
 ## About Me
 
-I’m a Data Scientist and Mechanical Engineer, currently pursuing a Master’s degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen](https://www.hs-furtwangen.de/) in Germany.
+I’m a Data Scientist and Mechanical Engineer, currently pursuing a **Master’s degree in [Computational Science and Engineering](https://www.uni-ulm.de/en/study/study-at-ulm-university/study-programmes/course-information/course/computational-science-and-engineering-master/)** at [Ulm University](https://www.uni-ulm.de/en/), in a **career-integrated (berufsbegleitend)** format.  
+I am **open to full-time opportunities** where I can apply my expertise in scalable AI and data-driven industrial systems.
 
-Alongside my academic journey, I work at [Bosch Rexroth](https://www.boschrexroth.com/), where I design and implement **Docker-based ETL pipelines** and **real-time monitoring systems** for hydraulic systems. My role focuses on connecting physical systems with intelligent software solutions, contributing to the future of industrial automation.
+I began my journey in Peru, where I graduated **top of my class** in Mechanical Engineering from the [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/).  
+My academic performance earned me the prestigious [Beca Presidente del Perú](https://www.pronabec.gob.pe/concursos-becas-creditos/), a **national full scholarship** awarded to the country’s top students.
 
-My story begins in Peru, where I graduated top of my class in Mechanical Engineering from the [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/). My academic excellence earned me the prestigious [Beca Presidente del Perú](https://www.pronabec.gob.pe/concursos-becas-creditos/), a national scholarship awarded to students with the highest performance in the country.
+After graduation, I was selected as **one of 100 finalists out of 16,000 applicants** to join [Freeport-McMoRan](https://www.fcx.com/), where I developed **Machine Learning** solutions for **predictive maintenance (Remaining Useful Life)** across global mining operations — combining **data science**, **reliability engineering**, and **real-world industrial systems**.
 
-Later, I was selected as one of 100 finalists out of 16,000 applicants to join [Freeport-McMoRan](https://www.fcx.com/), where I applied **Machine Learning** for **predictive maintenance (Remaining Useful Life)** across global mining operations—combining data science with high-stakes, real-world engineering.
+Currently, at [Bosch Rexroth](https://www.boschrexroth.com/), I design and orchestrate **Docker-based ETL pipelines**, **real-time monitoring systems**, and **machine/deep learning models** for predictive maintenance of hydraulic systems.  
+My work bridges **industrial automation** and **AI-driven data architectures**, connecting physical assets with scalable, intelligent software systems.
 
-My work bridges engineering and intelligent systems, with a strong emphasis on practical implementation and scalable solutions. I specialize in:
+---
 
-- **Machine Learning & Time-Series Modeling**  
-  Predictive maintenance, anomaly detection, and signal analysis using Python, PyTorch, and scikit-learn.
+### Focus Areas
 
-- **Dockerized ETL Pipelines & Cloud Integration**  
-  Modular, real-time data pipelines built with Dagster, orchestrated in Docker, and deployed on cloud platforms like Azure.
+- **AI Architectures & Time-Series Intelligence**  
+  Development of advanced ML/DL architectures including: **LSTM networks with attention**, **CNN-based temporal filters**, and **survival models** — for **Remaining Useful Life (RUL)** prediction, **anomaly detection**, and **adaptive retraining** in high-frequency industrial data environments.  
+  Expertise in **explainable AI** using **SHAP**, **PDP**, and interpretability frameworks for model transparency and reliability.
 
-- **Industrial Communication & Monitoring (OPC UA)**  
-  Design and implementation of robust monitoring architectures using OPC UA for data acquisition in manufacturing systems.
+- **Scalable Data & ETL Orchestration**  
+  Design of **modular ETL pipelines** and **multi-container architectures** using **Dagster**, **Apache Airflow**, and **Docker**.  
+  Implementation of **real-time dataflows** integrating **SQL/NoSQL systems** (PostgreSQL, Snowflake, InfluxDB) and **streaming technologies** (Kafka, Solace, MQTT) for industrial telemetry.
 
-- **Technology Stack**  
-  Python, PostgreSQL, Power BI/Grafana, Git, Azure ML — integrated into reliable and reproducible workflows.
+- **Industrial Connectivity & Cyber-Physical Systems**  
+  Integration of **OPC UA**, **MQTT**, and **CtrlX Core** communication frameworks for robust data acquisition across hydraulic, robotic, and automation systems.  
+  Bridging **control theory**, **system identification**, and **AI-based condition monitoring** to enable **self-diagnostic industrial assets**.
+
+- **Cloud, DevOps & Scalable Deployment**  
+  End-to-end deployment of ML pipelines using **Azure Machine Learning** and **Databricks**, with full **CI/CD** integration and **containerized workflows**.  
+  Strong focus on reproducibility, versioned data pipelines, and edge-cloud synchronization for Industrial AI.
 
 
 I aim to pursue a Ph.D. in Robotics, Control Systems, or Industrial AI, developing impactful technologies that bridge data and physical systems.
