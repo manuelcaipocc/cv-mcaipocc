@@ -265,7 +265,7 @@ My work bridges industrial automation and AI-driven data architectures, connecti
 ### Focus Areas
 
 - **AI Architectures & Time-Series Intelligence**  
-  Development of advanced ML/DL architectures including: LSTM networks with attention CNN-based temporal filters and survival models for Remaining Useful Life (RUL) prediction, **anomaly detection**, and **adaptive retraining** in high-frequency industrial data environments.  
+  Development of advanced ML/DL architectures including: LSTM networks with attention CNN-based temporal filters and survival models for Remaining Useful Life (RUL) prediction, anomaly detection, and adaptive retraining in high-frequency industrial data environments.  
   Expertise in explainable AI using SHAP, PDP, and interpretability frameworks for model transparency and reliability.
 
 - **Scalable Data & ETL Orchestration**  
