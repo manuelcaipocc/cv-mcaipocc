@@ -101,44 +101,43 @@ sections:
             <summary><strong>2024–Present | Data Scientist Werkstudent – Bosch Rexroth (Ulm, Germany)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
               <ul>
-                <li><strong>Industrial ETL Pipeline:</strong> Designed and implemented a complete ETL process to transmit CtrlX sensor data to a relational database via Solace messaging, fully containerized in Docker</li>
-                <li><strong>Data Processing Optimization:</strong> Developed and optimized stored procedures for restructuring raw sensor streams into machine-learning-ready formats</li>
-                <li><strong>RUL Prediction & Orchestration:</strong> Built predictive models for Remaining Useful Life (RUL) of hydraulic systems using Hidden Markov Models, clustering, and XGBoost — all orchestrated via Dagster</li>
+                <li><strong>Industrial Data Architecture:</strong> Design and orchestration of multi-container ETL pipelines for high-frequency sensor streams, integrating <strong>OPC UA</strong> and <strong>Solace</strong> into a unified data framework.</li>
+                <li><strong>Machine Learning Integration:</strong> Development of ML/DL models for <strong>Remaining Useful Life (RUL)</strong> prediction and anomaly detection in hydraulic systems using <strong>XGBoost, Hidden Markov Models, and clustering techniques</strong>.</li>
+                <li><strong>Pipeline Orchestration & Explainable AI:</strong> Implementation of automated data pipelines via <strong>Dagster</strong>, including retraining logic, validation, and explainability workflows (<strong>SHAP</strong>, <strong>PDP</strong>).</li>
               </ul>
             </div>
           </details>
 
           <!-- Freeport-McMoRan Era -->
           <details open>
-            <summary><strong>2021-2023 | Data Science Lead - Freeport-McMoRan (Global Mining Operations)</strong></summary>
+            <summary><strong>2021–2023 | Data Science Lead – Freeport-McMoRan (Global Mining Operations)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #e74c3c;">
               <details>
-                <summary><strong>Presidential Award - July 2022</strong></summary>
+                <summary><strong>Presidential Award – July 2022</strong></summary>
                 <div style="margin-left:20px;">
-                  Recognized for developing predictive wear models for primary crushers ("chancadoras primarias") that reduced maintenance costs by $1.2M/year across 6 mines
+                  Honored with the <strong>President’s Award</strong> and <strong>Innova 2022 (1st Place Digital Transformation)</strong> for developing predictive wear and failure models that improved plant availability by <strong>+1.5%</strong> (~10 M USD/year impact).
                 </div>
               </details>
               <ul>
-                <li><strong>Global ML Scaling:</strong> Productionized Azure ML Jobs serving daily predictions for 200+ heavy assets (crushers, HPGRs, ball mills)</li>
-                <li><strong>Data Infrastructure:</strong> Optimized SQL Stored Procedures reducing ML training data prep time from 8h → 22min</li>
-                <li><strong>Continuous Learning:</strong> Implemented automated retraining pipelines using 5 years of historical operational data</li>
-                <li><strong>Decision Intelligence:</strong> Created Power BI dashboards monitoring 35+ KPIs for maintenance planning</li>
+                <li><strong>Global ML Deployment:</strong> Scaled <strong>Azure ML</strong> pipelines delivering daily wear predictions for 200+ heavy assets (crushers, HPGRs, mills).</li>
+                <li><strong>Data Infrastructure Optimization:</strong> Reduced SQL data preparation time from 8 h → 22 min through stored procedure re-engineering and pipeline parallelization.</li>
+                <li><strong>Adaptive Learning Systems:</strong> Implemented continuous retraining and model monitoring over 5 years of multivariate operational data.</li>
+                <li><strong>Decision Intelligence:</strong> Built Power BI environments visualizing KPIs for maintenance optimization and operational reliability.</li>
               </ul>
             </div>
           </details>
 
           <!-- Early Career -->
           <details>
-            <summary><strong>2015-2021 | Engineering Foundations (Perú)</strong></summary>
+            <summary><strong>2015–2021 | Engineering Foundations (Peru)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #2ecc71;">
               <ul>
-                <li><strong>IMCO Servicios (2018-2021):</strong> Concurrent internships during undergraduate studies:
+                <li><strong>IMCO Servicios (2018–2021):</strong> Concurrent engineering roles during undergraduate studies:
                   <ul>
-                    <li>Finite element analysis for mining structures (SAP2000/Inventor/Ansys fluent-Structural)</li>
-                    <li>CFD simulations improving processing plant efficiency by 12%</li>
-                  </ul>
+                    <li>Conducted <strong>finite element (FEM)</strong> and <strong>CFD simulations</strong> for mechanical structures and mining components (SAP2000, Ansys, Autodesk CFD).</li>
+                    </ul>
                 </li>
-                <li><strong>Academic Excellence:</strong> Top-ranked mechanical engineering graduate (UNSA, 2019)</li>
+                <li><strong>Academic Excellence:</strong> Graduated <strong>top 1 %</strong> in Mechanical Engineering from UNSA (Peru), awarded the national <strong>Beca Presidente de la República</strong>.</li>
               </ul>
             </div>
           </details>
@@ -148,13 +147,14 @@ sections:
             <summary><strong>Academic Milestones</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
               <ul>
-                <li><strong>M.Sc. Advanced Precision Engineering</strong> (HFU, 2024-present)</li>
-                <li><strong>Postgrad. Machine Learning</strong> (UCSP, 2021-2022)</li>
-                <li><strong>B.Eng. Mechanical Engineering</strong> (UNSA, 2015-2019) with parallel industry training</li>
+                <li><strong>M.Sc. Computational Science and Engineering</strong> – <a href="https://www.uni-ulm.de/en/">University of Ulm</a> (2025–2027, berufsbegleitend)</li>
+                <li><strong>M.Sc. Advanced Precision Engineering</strong> – <a href="https://www.hs-furtwangen.de/">Hochschule Furtwangen</a> (2024–03.2026)<br>
+                Thesis: <em>“Fluid 4.0-compliant Framework for Digital Representation and Graph-based Neural Modeling of Hydraulic Systems.”</em></li>
+                <li><strong>Postgraduate Diploma – Machine Learning & Deep Learning</strong> – <a href="https://dc.ucsp.edu.pe/postgrado/diplomado-machine-learning/">Universidad Católica San Pablo</a> (2021–2022, Top 5 %)</li>
+                <li><strong>B.Sc. Mechanical Engineering</strong> – <a href="https://www.unsa.edu.pe/">Universidad Nacional de San Agustín de Arequipa</a> (2015–2019, Top 1 %)</li>
               </ul>
             </div>
           </details>
-
         </div>
     design:
       columns: 2

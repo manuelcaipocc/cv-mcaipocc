@@ -252,32 +252,32 @@ work:
 I’m a Data Scientist and Mechanical Engineer, currently pursuing a **Master’s degree in [Computational Science and Engineering](https://www.uni-ulm.de/en/study/study-at-ulm-university/study-programmes/course-information/course/computational-science-and-engineering-master/)** at [Ulm University](https://www.uni-ulm.de/en/), in a **career-integrated (berufsbegleitend)** format.  
 I am **open to full-time opportunities** where I can apply my expertise in scalable AI and data-driven industrial systems.
 
-I began my journey in Peru, where I graduated **top of my class** in Mechanical Engineering from the [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/).  
+I began my journey in Peru, where I graduated top of my class in Mechanical Engineering from the [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/).  
 My academic performance earned me the prestigious [Beca Presidente del Perú](https://www.pronabec.gob.pe/concursos-becas-creditos/), a **national full scholarship** awarded to the country’s top students.
 
-After graduation, I was selected as **one of 100 finalists out of 16,000 applicants** to join [Freeport-McMoRan](https://www.fcx.com/), where I developed **Machine Learning** solutions for **predictive maintenance (Remaining Useful Life)** across global mining operations — combining **data science**, **reliability engineering**, and **real-world industrial systems**.
+After graduation, I was selected as one of 100 finalists out of 16,000 applicants to join [Freeport-McMoRan](https://www.fcx.com/), where I developed Machine Learning solutions for predictive maintenance (Remaining Useful Life)** across global mining operations, combining: data science, reliability engineering, and real-world industrial systems.
 
-Currently, at [Bosch Rexroth](https://www.boschrexroth.com/), I design and orchestrate **Docker-based ETL pipelines**, **real-time monitoring systems**, and **machine/deep learning models** for predictive maintenance of hydraulic systems.  
-My work bridges **industrial automation** and **AI-driven data architectures**, connecting physical assets with scalable, intelligent software systems.
+Currently, at [Bosch Rexroth](https://www.boschrexroth.com/), I design and orchestrate Docker-based ETL pipelines, real-time monitoring systems, and machine/deep learning models for predictive maintenance of hydraulic systems.  
+My work bridges industrial automation and AI-driven data architectures, connecting physical assets with scalable, intelligent software systems.
 
 ---
 
 ### Focus Areas
 
 - **AI Architectures & Time-Series Intelligence**  
-  Development of advanced ML/DL architectures including: **LSTM networks with attention**, **CNN-based temporal filters**, and **survival models** — for **Remaining Useful Life (RUL)** prediction, **anomaly detection**, and **adaptive retraining** in high-frequency industrial data environments.  
-  Expertise in **explainable AI** using **SHAP**, **PDP**, and interpretability frameworks for model transparency and reliability.
+  Development of advanced ML/DL architectures including: LSTM networks with attention CNN-based temporal filters and survival models for Remaining Useful Life (RUL) prediction, **anomaly detection**, and **adaptive retraining** in high-frequency industrial data environments.  
+  Expertise in explainable AI using SHAP, PDP, and interpretability frameworks for model transparency and reliability.
 
 - **Scalable Data & ETL Orchestration**  
-  Design of **modular ETL pipelines** and **multi-container architectures** using **Dagster**, **Apache Airflow**, and **Docker**.  
-  Implementation of **real-time dataflows** integrating **SQL/NoSQL systems** (PostgreSQL, Snowflake, InfluxDB) and **streaming technologies** (Kafka, Solace, MQTT) for industrial telemetry.
+  Design of modular ETL pipelines and multi-container architectures using Dagster, Apache Airflow, and Docker.  
+  Implementation of real-time dataflows integrating SQL/NoSQL systems (PostgreSQL, Snowflake, InfluxDB) and streaming technologies (Kafka, Solace, MQTT) for industrial telemetry.
 
 - **Industrial Connectivity & Cyber-Physical Systems**  
-  Integration of **OPC UA**, **MQTT**, and **CtrlX Core** communication frameworks for robust data acquisition across hydraulic, robotic, and automation systems.  
-  Bridging **control theory**, **system identification**, and **AI-based condition monitoring** to enable **self-diagnostic industrial assets**.
+  Integration of OPC UA, MQTT, and CtrlX Core communication frameworks for robust data acquisition across hydraulic, robotic, and automation systems.  
+  Bridging control theory, system identification, and AI-based condition monitoring to enable self-diagnostic industrial assets.
 
 - **Cloud, DevOps & Scalable Deployment**  
-  End-to-end deployment of ML pipelines using **Azure Machine Learning** and **Databricks**, with full **CI/CD** integration and **containerized workflows**.  
+  End-to-end deployment of ML pipelines using Azure Machine Learning and Databricks, with full CI/CD integration and containerized workflows.  
   Strong focus on reproducibility, versioned data pipelines, and edge-cloud synchronization for Industrial AI.
 
 
