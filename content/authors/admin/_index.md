@@ -249,11 +249,11 @@ work:
 
 ## About Me
 
-I’m a Data Scientist and Mechanical Engineer, currently pursuing a **Master’s degree in [Computational Science and Engineering](https://www.uni-ulm.de/en/study/study-at-ulm-university/study-programmes/course-information/course/computational-science-and-engineering-master/)** at [Ulm University](https://www.uni-ulm.de/en/), in a **career-integrated (berufsbegleitend)** format.  
-I am **open to full-time opportunities** where I can apply my expertise in scalable AI and data-driven industrial systems.
+I’m a Data Scientist and Mechanical Engineer, currently pursuing a **Master’s degree in [Computational Science and Engineering](https://www.uni-ulm.de/en/study/study-at-ulm-university/study-programmes/course-information/course/computational-science-and-engineering-master/)** at [Ulm University](https://www.uni-ulm.de/en/), in a career-integrated (berufsbegleitend) format.  
+I am open to full-time opportunities where I can apply my expertise in scalable AI and data-driven industrial systems.
 
 I began my journey in Peru, where I graduated top of my class in Mechanical Engineering from the [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/).  
-My academic performance earned me the prestigious [Beca Presidente del Perú](https://www.pronabec.gob.pe/concursos-becas-creditos/), a **national full scholarship** awarded to the country’s top students.
+My academic performance earned me the prestigious [Beca Presidente del Perú](https://www.pronabec.gob.pe/concursos-becas-creditos/), a national full scholarship awarded to the country’s top students.
 
 After graduation, I was selected as one of 100 finalists out of 16,000 applicants to join [Freeport-McMoRan](https://www.fcx.com/), where I developed Machine Learning solutions for predictive maintenance (Remaining Useful Life)** across global mining operations, combining: data science, reliability engineering, and real-world industrial systems.
 
