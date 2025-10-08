@@ -12,7 +12,7 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: <br/><br/>Data - Industrial Data Architecture & Scalable AI Systems
+      title: <br/><br/> Industrial Data Architecture & Scalable AI Systems
     design:
       background:
         image:
