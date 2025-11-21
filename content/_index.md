@@ -95,41 +95,41 @@ sections:
     content:
       title: Professional Journey
       text: |-
-        <div>
-          <!-- Current Role -->
-          <details open>
-            <summary><strong>2024–Present | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
-            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
-              
-              <details>
-                <summary><strong>DC-SSD3 – Masterand (Master Thesis)</strong></summary>
-                <div style="margin-left:20px; margin-top:4px;">
-                  <ul>
-                    <li><strong>Master Thesis:</strong> <em>AI-Driven Software Architecture Frameworks for Digitalized Fluid Power Systems</em></li>
-                    <li>Extension of <strong>CytroConnect</strong> with a <strong>Condition-Monitoring module</strong> grounded in:
-                      <ul>
-                        <li>physical modeling rules</li>
-                        <li>hydraulic domain expertise</li>
-                        <li>standardized <strong>Fluid 4.0</strong> data structures</li>
-                      </ul>
-                    </li>
-                  </ul>
-                </div>
-              </details>
+          <div>
+            <!-- Current Role -->
+            <details open>
+              <summary><strong>2024–Present | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
+              <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
+                
+                <details>
+                  <summary><strong>DC-SSD3 – Masterand (Master Thesis)</strong></summary>
+                  <div style="margin-left:20px; margin-top:4px;">
+                    <ul>
+                      <li><strong>Master Thesis:</strong> <em>AI-Driven Software Architecture Frameworks for Digitalized Fluid Power Systems</em></li>
+                      <li>Extension of <strong>CytroConnect</strong> with a <strong>Condition-Monitoring module</strong> grounded in:
+                        <ul>
+                          <li>physical modeling rules</li>
+                          <li>hydraulic domain expertise</li>
+                          <li>standardized <strong>Fluid 4.0</strong> data structures</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </details>
 
-              <details>
-                <summary><strong>DC-SSD3 – Data Scientist Werkstudent</strong></summary>
-                <div style="margin-left:20px; margin-top:4px;">
-                  <ul>
-                    <li><strong>Industrial ETL Architectures:</strong> Scalable pipelines for high-frequency industrial time series (SQL/NoSQL), integrating <strong>Solace, MQTT, OPC UA</strong>.</li>
-                    <li><strong>Predictive Modeling:</strong> ML/DL models for anomaly detection and RUL estimation in hydraulic systems (XGBoost, HMMs, clustering).</li>
-                    <li><strong>Explainable AI:</strong> SHAP/PDP-based interpretability integrated into automated Dagster pipelines.</li>
-                  </ul>
-                </div>
-              </details>
+                <details>
+                  <summary><strong>DC-SSD3 – Data Scientist Werkstudent</strong></summary>
+                  <div style="margin-left:20px; margin-top:4px;">
+                    <ul>
+                      <li><strong>Industrial ETL Architectures:</strong> Scalable pipelines for high-frequency industrial time series (SQL/NoSQL), integrating <strong>Solace, MQTT, OPC UA</strong>.</li>
+                      <li><strong>Predictive Modeling:</strong> ML/DL models for anomaly detection and RUL estimation in hydraulic systems (XGBoost, HMMs, clustering).</li>
+                      <li><strong>Explainable AI:</strong> SHAP/PDP-based interpretability integrated into automated Dagster pipelines.</li>
+                    </ul>
+                  </div>
+                </details>
 
-            </div>
-          </details>
+              </div>
+            </details>
 
           <!-- Freeport-McMoRan Era -->
           <details open>
