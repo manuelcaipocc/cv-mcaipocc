@@ -101,7 +101,7 @@ sections:
             <summary><strong>2024–Present | Masterand & Data Scientist Werkstudent – Bosch Rexroth (Ulm, Germany)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
               
-              <details open>
+              <details>
                 <summary><strong>DC-SSD3 – Masterand (Master Thesis)</strong></summary>
                 <div style="margin-left:20px; margin-top:4px;">
                   <ul>
@@ -117,7 +117,7 @@ sections:
                 </div>
               </details>
 
-              <details open>
+              <details>
                 <summary><strong>DC-SSD3 – Data Scientist Werkstudent</strong></summary>
                 <div style="margin-left:20px; margin-top:4px;">
                   <ul>
