@@ -98,7 +98,7 @@ sections:
         <div>
           <!-- Current Role -->
           <details open>
-            <summary><strong>2024–Present | Masterand & Data Scientist Werkstudent – Bosch Rexroth (Ulm, Germany)</strong></summary>
+            <summary><strong>2024–Present | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
               
               <details>
