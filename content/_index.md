@@ -98,13 +98,36 @@ sections:
         <div>
           <!-- Current Role -->
           <details open>
-            <summary><strong>2024–Present | Data Scientist Werkstudent – Bosch Rexroth (Ulm, Germany)</strong></summary>
+            <summary><strong>2024–Present | Masterand & Data Scientist Werkstudent – Bosch Rexroth (Ulm, Germany)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
-              <ul>
-                <li><strong>Industrial Data Architecture:</strong> Design and orchestration of multi-container ETL pipelines for high-frequency sensor streams, integrating <strong>OPC UA</strong> and <strong>Solace</strong> into a unified data framework.</li>
-                <li><strong>Machine Learning Integration:</strong> Development of ML/DL models for <strong>Remaining Useful Life (RUL)</strong> prediction and anomaly detection in hydraulic systems using <strong>XGBoost, Hidden Markov Models, and clustering techniques</strong>.</li>
-                <li><strong>Pipeline Orchestration & Explainable AI:</strong> Implementation of automated data pipelines via <strong>Dagster</strong>, including retraining logic, validation, and explainability workflows (<strong>SHAP</strong>, <strong>PDP</strong>).</li>
-              </ul>
+              
+              <details open>
+                <summary><strong>DC-SSD3 – Masterand (Master Thesis)</strong></summary>
+                <div style="margin-left:20px; margin-top:4px;">
+                  <ul>
+                    <li><strong>Master Thesis:</strong> <em>AI-Driven Software Architecture Frameworks for Digitalized Fluid Power Systems</em></li>
+                    <li>Extension of <strong>CytroConnect</strong> with a <strong>Condition-Monitoring module</strong> grounded in:
+                      <ul>
+                        <li>physical modeling rules</li>
+                        <li>hydraulic domain expertise</li>
+                        <li>standardized <strong>Fluid 4.0</strong> data structures</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </details>
+
+              <details open>
+                <summary><strong>DC-SSD3 – Data Scientist Werkstudent</strong></summary>
+                <div style="margin-left:20px; margin-top:4px;">
+                  <ul>
+                    <li><strong>Industrial ETL Architectures:</strong> Scalable pipelines for high-frequency industrial time series (SQL/NoSQL), integrating <strong>Solace, MQTT, OPC UA</strong>.</li>
+                    <li><strong>Predictive Modeling:</strong> ML/DL models for anomaly detection and RUL estimation in hydraulic systems (XGBoost, HMMs, clustering).</li>
+                    <li><strong>Explainable AI:</strong> SHAP/PDP-based interpretability integrated into automated Dagster pipelines.</li>
+                  </ul>
+                </div>
+              </details>
+
             </div>
           </details>
 
