@@ -95,7 +95,7 @@ sections:
     content:
       title: Professional Journey
       text: |-
-          <div>
+        <div>
           <!-- Current Role -->
           <details open>
             <summary><strong>2024–Present | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
