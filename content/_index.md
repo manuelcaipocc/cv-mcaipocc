@@ -98,26 +98,16 @@ sections:
         <div>
           <!-- Current Role -->
           <details open>
-            <summary><strong>2024–Present | Masterand & Data Scientist – Bosch Rexroth (Ulm, Germany)</strong></summary>
+            <summary><strong>2024–Present | Data Scientist Werkstudent | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
-              
-              <details>
-                <summary><strong>DC-SSD3 – Masterand (Master Thesis)</strong></summary>
-                <div style="margin-left:20px;">
-                  Working on the Master Thesis <strong>“AI-Driven Software Architecture Frameworks for Digitalized Fluid Power Systems”</strong>, including the extension of <strong>CytroConnect</strong> with a <strong>Condition-Monitoring module</strong> based on physical modeling rules, hydraulic expertise, and <strong>Fluid 4.0</strong> standardized data structures.
-                </div>
-              </details>
-
               <ul>
-                <li><strong>Industrial ETL Architectures:</strong> Scalable pipelines for high-frequency industrial time series (SQL/NoSQL) integrating Solace, MQTT, OPC UA.</li>
-                <li><strong>Predictive Modeling:</strong> ML/DL models for anomaly detection and RUL estimation in hydraulic systems (XGBoost, HMMs, clustering).</li>
-                <li><strong>Explainable AI:</strong> SHAP/PDP-based interpretability integrated into automated Dagster pipelines.</li>
+                <li><strong>Industrial ETL Pipeline:</strong> Designed and implemented a complete ETL process to transmit CtrlX sensor data to a relational database via Solace messaging, fully containerized in Docker</li>
+                <li><strong>Data Processing Optimization:</strong> Developed and optimized stored procedures for restructuring raw sensor streams into machine-learning-ready formats</li>
+                <li><strong>RUL Prediction & Orchestration:</strong> Built predictive models for Remaining Useful Life (RUL) of hydraulic systems using Hidden Markov Models, clustering, and XGBoost — all orchestrated via Dagster</li>
               </ul>
-
             </div>
           </details>
 
-          
           <!-- Freeport-McMoRan Era -->
           <details open>
             <summary><strong>2021–2023 | Data Science – Freeport-McMoRan (Global Mining Operations)</strong></summary>
