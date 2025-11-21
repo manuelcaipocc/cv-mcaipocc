@@ -98,27 +98,25 @@ sections:
         <div>
           <!-- Current Role -->
           <details open>
-            <summary><strong>2024–Present | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
+            <summary><strong>2024–Present | Masterand & Data Scientist – Bosch Rexroth (Ulm, Germany)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
-              <p><strong>DC-SSD3 – Masterand (Master Thesis)</strong></p>
+              
+              <details>
+                <summary><strong>DC-SSD3 – Masterand (Master Thesis)</strong></summary>
+                <div style="margin-left:20px;">
+                  Working on the Master Thesis <strong>“AI-Driven Software Architecture Frameworks for Digitalized Fluid Power Systems”</strong>, including the extension of <strong>CytroConnect</strong> with a <strong>Condition-Monitoring module</strong> based on physical modeling rules, hydraulic expertise, and <strong>Fluid 4.0</strong> standardized data structures.
+                </div>
+              </details>
+
               <ul>
-                <li><strong>Master Thesis:</strong> <em>AI-Driven Software Architecture Frameworks for Digitalized Fluid Power Systems</em></li>
-                <li>Extension of <strong>CytroConnect</strong> with a <strong>Condition-Monitoring module</strong> grounded in:
-                  <ul>
-                    <li>physical modeling rules</li>
-                    <li>hydraulic domain expertise</li>
-                    <li>standardized <strong>Fluid 4.0</strong> data structures</li>
-                  </ul>
-                </li>
-              </ul>
-              <p><strong>DC-SSD3 – Data Scientist Werkstudent</strong></p>
-              <ul>
-                <li><strong>Industrial ETL Architectures:</strong> Scalable pipelines for high-frequency industrial time series (SQL/NoSQL), integrating <strong>Solace, MQTT, OPC UA</strong>.</li>
+                <li><strong>Industrial ETL Architectures:</strong> Scalable pipelines for high-frequency industrial time series (SQL/NoSQL) integrating Solace, MQTT, OPC UA.</li>
                 <li><strong>Predictive Modeling:</strong> ML/DL models for anomaly detection and RUL estimation in hydraulic systems (XGBoost, HMMs, clustering).</li>
                 <li><strong>Explainable AI:</strong> SHAP/PDP-based interpretability integrated into automated Dagster pipelines.</li>
               </ul>
+
             </div>
           </details>
+
           
           <!-- Freeport-McMoRan Era -->
           <details open>
