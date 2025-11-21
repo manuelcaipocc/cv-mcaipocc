@@ -100,7 +100,6 @@ sections:
           <details open>
             <summary><strong>2024–Present | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
-
               <p><strong>DC-SSD3 – Masterand (Master Thesis)</strong></p>
               <ul>
                 <li><strong>Master Thesis:</strong> <em>AI-Driven Software Architecture Frameworks for Digitalized Fluid Power Systems</em></li>
@@ -112,17 +111,15 @@ sections:
                   </ul>
                 </li>
               </ul>
-
               <p><strong>DC-SSD3 – Data Scientist Werkstudent</strong></p>
               <ul>
                 <li><strong>Industrial ETL Architectures:</strong> Scalable pipelines for high-frequency industrial time series (SQL/NoSQL), integrating <strong>Solace, MQTT, OPC UA</strong>.</li>
                 <li><strong>Predictive Modeling:</strong> ML/DL models for anomaly detection and RUL estimation in hydraulic systems (XGBoost, HMMs, clustering).</li>
                 <li><strong>Explainable AI:</strong> SHAP/PDP-based interpretability integrated into automated Dagster pipelines.</li>
               </ul>
-
             </div>
           </details>
-
+          
           <!-- Freeport-McMoRan Era -->
           <details open>
             <summary><strong>2021–2023 | Data Science – Freeport-McMoRan (Global Mining Operations)</strong></summary>
