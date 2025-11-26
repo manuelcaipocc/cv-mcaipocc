@@ -259,7 +259,6 @@ After graduation, I was selected as one of 100 finalists out of 16,000 applicant
 Currently, at [Bosch Rexroth](https://www.boschrexroth.com/), I design and orchestrate Docker-based ETL pipelines, real-time monitoring systems, and machine/deep learning models for predictive maintenance of hydraulic systems.  
 My work bridges industrial automation and AI-driven data architectures, connecting physical assets with scalable, intelligent software systems.
 
-I am open to full-time opportunities where I can apply my expertise in scalable AI and data-driven industrial systems.
 ---
 
 ### Focus Areas
