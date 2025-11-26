@@ -249,8 +249,7 @@ work:
 
 ## About Me
 
-I’m a Data Scientist and Mechanical Engineer, currently pursuing a **Master’s degree in [Computational Science and Engineering](https://www.uni-ulm.de/en/study/study-at-ulm-university/study-programmes/course-information/course/computational-science-and-engineering-master/)** at [Ulm University](https://www.uni-ulm.de/en/), in a career-integrated (berufsbegleitend) format.  
-I am open to full-time opportunities where I can apply my expertise in scalable AI and data-driven industrial systems.
+<!-- I’m a Data Scientist and Mechanical Engineer, currently pursuing a **Master’s degree in [Computational Science and Engineering](https://www.uni-ulm.de/en/study/study-at-ulm-university/study-programmes/course-information/course/computational-science-and-engineering-master/)** at [Ulm University](https://www.uni-ulm.de/en/), in a career-integrated (berufsbegleitend) format.   -->
 
 I began my journey in Peru, where I graduated top of my class in Mechanical Engineering from the [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/).  
 My academic performance earned me the prestigious [Beca Presidente del Perú](https://www.pronabec.gob.pe/concursos-becas-creditos/), a national full scholarship awarded to the country’s top students.
@@ -260,6 +259,7 @@ After graduation, I was selected as one of 100 finalists out of 16,000 applicant
 Currently, at [Bosch Rexroth](https://www.boschrexroth.com/), I design and orchestrate Docker-based ETL pipelines, real-time monitoring systems, and machine/deep learning models for predictive maintenance of hydraulic systems.  
 My work bridges industrial automation and AI-driven data architectures, connecting physical assets with scalable, intelligent software systems.
 
+I am open to full-time opportunities where I can apply my expertise in scalable AI and data-driven industrial systems.
 ---
 
 ### Focus Areas
