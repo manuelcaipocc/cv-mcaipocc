@@ -280,6 +280,6 @@ My work bridges industrial automation and AI-driven data architectures, connecti
   Strong focus on reproducibility, versioned data pipelines, and edge-cloud synchronization for Industrial AI.
 
 
-I aim to pursue a Ph.D. in Robotics, Control Systems, or Industrial AI, developing impactful technologies that bridge data and physical systems.
+I aim to pursue a Ph.D. in Computer Science, with a focus on Robotics and Artificial Intelligence for physical systems.
 
 <small><a href="https://manuelcaipocc.goatcounter.com/" target="_blank" style="color: rgba(0, 0, 0, 0.1); text-decoration: none;">Analytics</a></small>
