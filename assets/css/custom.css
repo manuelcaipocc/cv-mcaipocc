@@ -342,10 +342,10 @@ blockquote{
   font-weight:600;
 }
 
-.professional-timeline p strong{
-  color:#3b82f6;
+.professional-timeline strong{
+  color:#3b82f6 !important;
 }
 
-[data-theme="dark"] .professional-timeline p strong{
-  color:#93c5fd;
+[data-theme="dark"] .professional-timeline strong{
+  color:#93c5fd !important;
 }
