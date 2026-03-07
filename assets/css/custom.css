@@ -16,11 +16,17 @@
 }
 
 .wg-about{
-  background:white;
-  border-radius:12px;
+  background: rgba(255,255,255,0.75);
+  backdrop-filter: blur(10px);
+  border-radius:16px;
   padding:30px;
   box-shadow:0 10px 30px rgba(0,0,0,.08);
 }
+
+[data-theme="dark"] .wg-about{
+  background: rgba(15,23,42,0.6);
+}
+
 
 .wg-about p{
   font-size:0.94rem;
@@ -63,7 +69,9 @@ blockquote{
   color:#1e3a8a;
 }
 
-.hero-gradient .home-section-bg{
+/* DARK MODE */
+
+[data-theme="dark"] .hero-gradient .home-section-bg{
   background: linear-gradient(
     -45deg,
     #020617,
@@ -75,6 +83,20 @@ blockquote{
   animation: gradientMove 18s ease infinite;
 }
 
+
+/* LIGHT MODE */
+
+[data-theme="light"] .hero-gradient .home-section-bg{
+  background: linear-gradient(
+    -45deg,
+    #f8fafc,
+    #e0f2fe,
+    #bfdbfe,
+    #93c5fd
+  );
+  background-size:400% 400%;
+  animation: gradientMove 18s ease infinite;
+}
 @keyframes gradientMove {
   0% {background-position:0% 50%;}
   50% {background-position:100% 50%;}
