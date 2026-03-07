@@ -11,9 +11,10 @@ body.page-wrapper{
   position: relative;
   background: linear-gradient(
     180deg,
-    #dbeefe 0%,
-    #eef7ff 24%,
-    #f7fbff 55%,
+    #d9e4ff 0%,
+    #ece7ff 20%,
+    #f8ecff 42%,
+    #eef7ff 68%,
     #ffffff 100%
   ) !important;
   overflow-x: hidden;
@@ -22,7 +23,7 @@ body.page-wrapper{
 html.dark body.page-wrapper{
   background: linear-gradient(
     180deg,
-    #1e3a8a 0%,
+    #040f2b 0%,
     #172554 22%,
     #0f172a 52%,
     #050814 100%
@@ -38,9 +39,10 @@ body.page-wrapper::before{
   z-index: -1;
 
   background:
-    radial-gradient(circle at 20% 20%, rgba(96,165,250,0.22), transparent 32%),
-    radial-gradient(circle at 80% 30%, rgba(167,139,250,0.18), transparent 30%),
-    radial-gradient(circle at 40% 75%, rgba(125,211,252,0.16), transparent 34%);
+    radial-gradient(circle at 18% 18%, rgba(96,165,250,0.18), transparent 30%),
+    radial-gradient(circle at 78% 28%, rgba(196,181,253,0.20), transparent 28%),
+    radial-gradient(circle at 42% 72%, rgba(244,114,182,0.10), transparent 30%),
+    radial-gradient(circle at 65% 55%, rgba(186,230,253,0.14), transparent 34%);
 
   background-size: 140% 140%;
   animation: waveFloat 18s ease-in-out infinite;
@@ -86,7 +88,6 @@ html.dark body.page-wrapper::before{
 section {
   background: transparent !important;
 }
-
 
 .keyword {
   display:inline-block;
