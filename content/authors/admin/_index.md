@@ -248,23 +248,31 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About
 
-I am a Machine Learning Engineer with a background in Mechanical Engineering, working at the intersection of artificial intelligence, data engineering, and complex engineering systems.
+Machine Learning Engineer with a background in Mechanical Engineering, working at the intersection of **artificial intelligence, data engineering, and complex engineering systems**.
 
-My work focuses on developing AI systems for cyber-physical environments, combining physical modeling, industrial domain knowledge, and scalable data pipelines to build reliable and interpretable models for real-world engineering applications.
+I develop machine learning systems and data infrastructures for **industrial cyber-physical environments**, combining physical modeling, industrial domain knowledge, and scalable data pipelines to build reliable and interpretable models for real-world engineering applications.
 
-During my previous work in the mining industry at Freeport-McMoRan, I developed machine learning systems that supported predictive maintenance strategies for large-scale equipment, improving asset availability and enabling data-driven operational decision-making.
+### Industrial Experience
 
-Currently, at Bosch Rexroth, I work on AI-based condition monitoring for hydraulic systems, designing industrial data pipelines and real-time telemetry architectures that integrate sensor streams, messaging systems, and machine learning models for intelligent monitoring and decision support.
+During my work in the mining industry at **Freeport-McMoRan**, I developed machine learning systems for predictive maintenance of large-scale equipment, improving asset availability and enabling data-driven operational decision-making.
 
-My research interests focus on **structured machine learning for engineered systems**, including graph-based representations, physics-aware learning, and methods that incorporate system architecture and physical constraints into learning algorithms.
+Currently at **Bosch Rexroth**, I work on AI-based condition monitoring for hydraulic systems, designing industrial **data pipelines and real-time telemetry architectures** that integrate sensor streams, messaging systems, and machine learning models for intelligent monitoring and decision support.
 
-More broadly, I am interested in how machine learning and data infrastructure can augment engineering design, operation, and maintenance, enabling intelligent systems that can reason about complex machines and improve their performance over time.
+### Research Direction
 
-In the long term, I aim to pursue a Ph.D. in AI and Machine Learning to advance intelligent methods that accelerate engineering design, operation, and decision-making in complex systems.
+My research focuses on **structured machine learning for engineered systems**, including:
 
-### Research Keywords
+- graph-based representations of industrial systems  
+- physics-aware learning methods  
+- machine learning models that incorporate system architecture and physical constraints
+
+More broadly, I am interested in how **machine learning and data infrastructures can augment engineering design, operation, and maintenance**, enabling intelligent systems that reason about complex machines and improve their performance over time.
+
+> My long-term goal is to pursue a Ph.D. in Artificial Intelligence to advance intelligent methods that accelerate engineering design, industrial operation, and decision-making in complex systems.
+
+---
 
 ### Research Keywords
 
