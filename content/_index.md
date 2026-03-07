@@ -139,7 +139,7 @@ sections:
         </details>
     design:
       columns: 2
-      css_class: professional-timeline
+      css_class: professional-timeline2
   - block: collection
     id: publications
     content:
