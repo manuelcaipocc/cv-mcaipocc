@@ -14,12 +14,14 @@ sections:
     content:
       title: <br/><br/> ML & Data Engineer
     design:
-      background:
-        image:
-          filename: iot1.png
-          filters:
-            brightness: 0.5
-        text_color_light: true
+      css_class: hero-gradient
+      text_color_light: true
+      # background:
+      #   image:
+      #     filename: iot1.png
+      #     filters:
+      #       brightness: 0.5
+      #   text_color_light: true
   - block: resume-biography-3
     id: about
     content:

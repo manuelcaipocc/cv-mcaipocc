@@ -15,9 +15,11 @@
   box-shadow:0 6px 14px rgba(0,0,0,.12);
 }
 
-.wg-about {
-  max-width:760px;
-  margin:auto;
+.wg-about{
+  background:white;
+  border-radius:12px;
+  padding:30px;
+  box-shadow:0 10px 30px rgba(0,0,0,.08);
 }
 
 .wg-about p{
@@ -31,10 +33,18 @@ details summary{
   font-size:0.98rem;
 }
 
-details{
+/* Focus Areas collapsibles */
+
+.focus-area details{
   margin-bottom:14px;
   border-left:3px solid #3b82f6;
   padding-left:14px;
+}
+
+.focus-area summary{
+  cursor:pointer;
+  font-weight:600;
+  font-size:0.98rem;
 }
 
 h2{
@@ -51,4 +61,28 @@ blockquote{
 
 .wg-about strong{
   color:#1e3a8a;
+}
+
+.hero-gradient {
+  background: linear-gradient(
+      -45deg,
+      #0f172a,
+      #1e293b,
+      #1e3a8a,
+      #0ea5e9
+  );
+  background-size: 400% 400%;
+  animation: gradientMove 15s ease infinite;
+}
+
+@keyframes gradientMove {
+  0% {
+    background-position:0% 50%;
+  }
+  50% {
+    background-position:100% 50%;
+  }
+  100% {
+    background-position:0% 50%;
+  }
 }

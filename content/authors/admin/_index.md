@@ -285,6 +285,8 @@ More broadly, I am interested in how **machine learning and data infrastructures
 
 ---
 
+<div class="focus-area">
+
 ### Focus Areas
 
 <details>
@@ -333,7 +335,6 @@ Research on learning approaches that incorporate system structure, causal relati
 Design of ML systems for anomaly detection, degradation modeling, and remaining useful life (RUL) prediction using high-frequency sensor data from large-scale industrial assets.
 
 
-
 <details>
 <summary><strong>Scalable Data and ML Systems for Industry</strong></summary>
 
@@ -349,5 +350,6 @@ Design of ML systems for anomaly detection, degradation modeling, and remaining 
 
 Development of data pipelines, telemetry systems, and deployable machine learning architectures for cyber-physical systems.
 
+</div>
 
 <small><a href="https://manuelcaipocc.goatcounter.com/" target="_blank" style="color: rgba(0, 0, 0, 0.1); text-decoration: none;">Analytics</a></small>
