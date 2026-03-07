@@ -110,7 +110,7 @@ sections:
         <details open>
         <summary><strong>2021–2023 | Data Science – Freeport-McMoRan (Global Mining Operations)</strong></summary>
 
-        **Presidential Award — July 2022**  
+        <span class="award">Presidential Award — July 2022</span>  
         Honored with the **President’s Award** and **Innova 2022 (1st Place Digital Transformation)** for predictive wear models improving plant availability by **+1.5%**.
 
         - **Global ML Deployment:** Azure ML pipelines for 200+ heavy assets  
