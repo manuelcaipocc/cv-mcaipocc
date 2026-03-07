@@ -263,28 +263,67 @@ More broadly, I am interested in how machine learning can **augment engineering 
 
 I aim to pursue research and advanced development in **AI for engineering systems**, contributing to the development of robust and interpretable AI methods for industrial and robotic systems.
 
-In the long term, I aim to pursue a Ph.D. in AI and Machine Learning to advance intelligent methods that accelerate engineering design, operation, and decision-making in complex systems.
 ---
 
 ### Focus Areas
 
-- **AI Architectures & Time-Series Intelligence**  
-  Development of advanced ML/DL architectures including: LSTM networks with attention CNN-based temporal filters and survival models for Remaining Useful Life (RUL) prediction, anomaly detection, and adaptive retraining in high-frequency industrial data environments.  
-  Expertise in explainable AI using SHAP, PDP, and interpretability frameworks for model transparency and reliability.
+**Machine Learning for Engineering Systems**  
+Development of machine learning methods that integrate engineering knowledge and physical constraints to improve monitoring, reliability, and decision-making in complex industrial systems.
 
-- **Scalable Data & ETL Orchestration**  
-  Design of modular ETL pipelines and multi-container architectures using Dagster, Apache Airflow, and Docker.  
-  Implementation of real-time dataflows integrating SQL/NoSQL systems (PostgreSQL, Snowflake, InfluxDB) and streaming technologies (Kafka, Solace, MQTT) for industrial telemetry.
+<details>
+<summary>Technologies & Methods</summary>
 
-- **Industrial Connectivity & Cyber-Physical Systems**  
-  Integration of OPC UA, MQTT, and CtrlX Core communication frameworks for robust data acquisition across hydraulic, robotic, and automation systems.  
-  Bridging control theory, system identification, and AI-based condition monitoring to enable self-diagnostic industrial assets.
+- Python (NumPy, Pandas, SciPy, PyTorch)
+- Time-series modeling
+- Graph-based learning approaches
+- System identification
+- Physics-informed machine learning
 
-- **Cloud, DevOps & Scalable Deployment**  
-  End-to-end deployment of ML pipelines using Azure Machine Learning and Databricks, with full CI/CD integration and containerized workflows.  
-  Strong focus on reproducibility, versioned data pipelines, and edge-cloud synchronization for Industrial AI.
+</details>
 
 
-I aim to pursue a Ph.D. in Computer Science, with a focus on Robotics and Artificial Intelligence for physical systems.
+**Physics-Aware and Structured Machine Learning**  
+Research on learning approaches that incorporate system structure, causal relations, and physical constraints into machine learning models.
+
+<details>
+<summary>Technologies & Methods</summary>
+
+- Graph Neural Networks  
+- Causal modeling approaches  
+- Physics-informed neural networks  
+- Explainable AI (SHAP, PDP)
+
+</details>
+
+
+**Industrial AI and Predictive Maintenance**  
+Design of ML systems for anomaly detection, degradation modeling, and remaining useful life (RUL) prediction using high-frequency sensor data from large-scale industrial assets.
+
+<details>
+<summary>Technologies & Methods</summary>
+
+- LSTM / CNN architectures for time-series  
+- Survival models for RUL prediction  
+- Feature engineering for industrial sensor data  
+- Explainable AI for model interpretation
+
+</details>
+
+
+**Scalable Data and ML Systems for Industry**  
+Development of data pipelines, telemetry systems, and deployable machine learning architectures for cyber-physical systems.
+
+<details>
+<summary>Technologies & Methods</summary>
+
+- Docker-based architectures  
+- Dagster / Apache Airflow pipelines  
+- SQL / NoSQL systems (PostgreSQL, InfluxDB, Snowflake)  
+- Streaming technologies (Kafka, Solace, MQTT)  
+- Cloud ML systems (Azure ML, Databricks)
+
+</details>
+
+In the long term, I aim to pursue a Ph.D. in AI and Machine Learning to advance intelligent methods that accelerate engineering design, operation, and decision-making in complex systems.
 
 <small><a href="https://manuelcaipocc.goatcounter.com/" target="_blank" style="color: rgba(0, 0, 0, 0.1); text-decoration: none;">Analytics</a></small>
