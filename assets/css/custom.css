@@ -247,3 +247,26 @@ blockquote{
   align-items:center;
   gap:8px;
 }
+
+
+.about-badge{
+  background: linear-gradient(
+    -45deg,
+    #065f46,
+    #059669,
+    #10b981,
+    #34d399
+  );
+
+  background-size:300% 300%;
+  animation: badgeGradient 8s ease infinite;
+
+  color:white;
+  border:none;
+}
+
+@keyframes badgeGradient{
+  0%{background-position:0% 50%;}
+  50%{background-position:100% 50%;}
+  100%{background-position:0% 50%;}
+}

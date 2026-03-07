@@ -251,7 +251,7 @@ work:
 
 <div class="about-card">
 
-### <span class="keyword-icon">About</span>
+<span class="keyword-icon about-badge">About Me</span>
 
 Machine Learning Engineer with a background in Mechanical Engineering, working at the intersection of **artificial intelligence, data engineering, and complex engineering systems**.
 
