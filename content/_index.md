@@ -107,7 +107,6 @@ sections:
 
         </details>
 
-
         <details open>
         <summary><strong>2021–2023 | Data Science – Freeport-McMoRan (Global Mining Operations)</strong></summary>
 
