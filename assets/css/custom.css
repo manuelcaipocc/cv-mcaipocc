@@ -347,7 +347,7 @@ blockquote{
 }
 
 [data-theme="dark"] .professional-timeline strong{
-  color:#8a9097 !important;
+  color:#e1e6ec !important;
 }
 
 .award{
@@ -366,8 +366,11 @@ blockquote{
   letter-spacing:0.02em;
 }
 
+/* DARK MODE */
+
 [data-theme="dark"] .award{
-  background:linear-gradient(135deg,#1e3a8a,#1e40af);
+  background:rgba(147,197,253,0.08);
   color:#bfdbfe;
-  border:1px solid rgba(147,197,253,0.35);
+
+  border:1px solid rgba(147,197,253,0.25);
 }
