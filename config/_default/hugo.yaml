@@ -9,6 +9,23 @@ title: Manuel Caipo | Machine Learning Researcher & Mechanical Engineer
 baseURL: 'https://manuelcaipocc.github.io/testcv/'
 
 description: "Research portfolio of Manuel Caipo. Focused on Physics-aware Machine Learning, topology-aware models, and interpretable AI for complex cyber-physical systems and industrial reliability."
+
+params:
+  contact_links:
+    - icon: linkedin
+      icon_pack: fab
+      link: 'https://www.linkedin.com/in/manuel-caipo-89845b151/'
+    - icon: github
+      icon_pack: fab
+      link: 'https://github.com/manuelcaipocc'
+  
+  marketing:
+    seo:
+      schema:
+        enabled: true
+        person_type: 'Person'
+
+
 ############################
 ## LANGUAGE
 ############################
