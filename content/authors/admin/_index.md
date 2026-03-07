@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Machine Learning for Engineering Systems
+role: Machine Learning Engineer | Industrial AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,9 +48,10 @@ profiles:
     url: uploads/resume.pdf
 
 interests:
-  - Smart Systems for Industrial Engineering and Robotics
-  - Technical Software Architecture & Data Automation for Industry 4.0
-  - Fusion of Data Science with Physical Modeling
+  - Machine Learning for Engineering Systems
+  - Physics-informed Machine Learning
+  - Industrial AI and Predictive Maintenance
+  - Cyber-Physical Systems
 
 education:
   - area: M.Sc. Computational Science and Engineering
@@ -249,11 +250,11 @@ work:
 
 ## About Me
 
-I am a Machine Learning Engineer and Mechanical Engineer working at the intersection of **artificial intelligence and complex engineering systems**.
+I am a Machine Learning Engineer with a background in Mechanical Engineering, working at the intersection of artificial intelligence and complex engineering systems.
 
 My work focuses on developing **AI methods for cyber-physical systems**, combining physical modeling, industrial domain knowledge, and machine learning to build reliable and interpretable models for real-world engineering environments.
 
-I have industrial experience designing and deploying machine learning systems for **large-scale industrial assets**, including predictive maintenance, anomaly detection, and remaining useful life (RUL) prediction using high-frequency sensor data.
+During my previous work in the mining industry at Freeport-McMoRan, I developed machine learning systems that supported predictive maintenance strategies for large-scale equipment, improving asset availability and enabling data-driven operational decision-making.
 
 Currently, at Bosch Rexroth, I work on AI-based condition monitoring for hydraulic systems, integrating **industrial data pipelines, real-time telemetry, and physics-informed machine learning** to support intelligent monitoring and decision-making in industrial environments.
 
@@ -261,8 +262,11 @@ My research interests focus on **structured machine learning for engineered syst
 
 More broadly, I am interested in how machine learning can **augment engineering design, operation, and maintenance**, enabling intelligent systems that can reason about complex machines and improve their performance over time.
 
-My long-term interest lies in developing robust and interpretable AI methods for engineering systems and cyber-physical environments.
+In the long term, I aim to pursue a Ph.D. in AI and Machine Learning to advance intelligent methods that accelerate engineering design, operation, and decision-making in complex systems.
 
+### Research Keywords
+
+`AI for Engineering Design` · `Intelligent Diagnosis Systems` · `Physics-informed Machine Learning` · `Graph Learning for Cyber-Physical Systems` · `Industrial AI` · `Predictive Maintenance`
 ---
 
 ### Focus Areas
@@ -329,6 +333,5 @@ Design of ML systems for anomaly detection, degradation modeling, and remaining 
 
 Development of data pipelines, telemetry systems, and deployable machine learning architectures for cyber-physical systems.
 
-In the long term, I aim to pursue a Ph.D. in AI and Machine Learning to advance intelligent methods that accelerate engineering design, operation, and decision-making in complex systems.
 
 <small><a href="https://manuelcaipocc.goatcounter.com/" target="_blank" style="color: rgba(0, 0, 0, 0.1); text-decoration: none;">Analytics</a></small>
