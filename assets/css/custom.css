@@ -1,0 +1,16 @@
+.keyword {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 4px;
+  border-radius: 999px;
+  background: #eef2ff;
+  color: #1e3a8a;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.keyword:hover {
+  background: #2563eb;
+  color: white;
+}

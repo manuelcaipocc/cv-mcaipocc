@@ -266,13 +266,14 @@ In the long term, I aim to pursue a Ph.D. in AI and Machine Learning to advance 
 
 ### Research Keywords
 
-<span style="background:#eef3ff;padding:4px 10px;border-radius:12px;font-size:0.85em;">AI for Engineering Design</span>
-<span style="background:#eef3ff;padding:4px 10px;border-radius:12px;font-size:0.85em;">Intelligent Diagnosis</span>
-<span style="background:#eef3ff;padding:4px 10px;border-radius:12px;font-size:0.85em;">Physics-informed ML</span>
-<span style="background:#eef3ff;padding:4px 10px;border-radius:12px;font-size:0.85em;">Graph Learning for CPS</span>
-<span style="background:#eef3ff;padding:4px 10px;border-radius:12px;font-size:0.85em;">Industrial AI</span>
-<span style="background:#eef3ff;padding:4px 10px;border-radius:12px;font-size:0.85em;">Predictive Maintenance</span>
+### Research Keywords
 
+<span class="keyword">AI for Engineering Design</span>
+<span class="keyword">Intelligent Diagnosis</span>
+<span class="keyword">Physics-informed ML</span>
+<span class="keyword">Graph Learning for Cyber-Physical Systems</span>
+<span class="keyword">Industrial AI</span>
+<span class="keyword">Predictive Maintenance</span>
 
 ---
 
