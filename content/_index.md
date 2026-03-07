@@ -12,7 +12,7 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: <br/><br/> Data Architecture & ML Engineer
+      title: <br/><br/> Machine Learning Engineer | Data Engineering | Industrial AI
     design:
       background:
         image:

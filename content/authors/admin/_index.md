@@ -250,17 +250,17 @@ work:
 
 ## About Me
 
-I am a Machine Learning Engineer with a background in Mechanical Engineering, working at the intersection of artificial intelligence and complex engineering systems.
+I am a Machine Learning Engineer with a background in Mechanical Engineering, working at the intersection of artificial intelligence, data engineering, and complex engineering systems.
 
-My work focuses on developing **AI methods for cyber-physical systems**, combining physical modeling, industrial domain knowledge, and machine learning to build reliable and interpretable models for real-world engineering environments.
+My work focuses on developing AI systems for cyber-physical environments, combining physical modeling, industrial domain knowledge, and scalable data pipelines to build reliable and interpretable models for real-world engineering applications.
 
 During my previous work in the mining industry at Freeport-McMoRan, I developed machine learning systems that supported predictive maintenance strategies for large-scale equipment, improving asset availability and enabling data-driven operational decision-making.
 
-Currently, at Bosch Rexroth, I work on AI-based condition monitoring for hydraulic systems, integrating **industrial data pipelines, real-time telemetry, and physics-informed machine learning** to support intelligent monitoring and decision-making in industrial environments.
+Currently, at Bosch Rexroth, I work on AI-based condition monitoring for hydraulic systems, designing industrial data pipelines and real-time telemetry architectures that integrate sensor streams, messaging systems, and machine learning models for intelligent monitoring and decision support.
 
 My research interests focus on **structured machine learning for engineered systems**, including graph-based representations, physics-aware learning, and methods that incorporate system architecture and physical constraints into learning algorithms.
 
-More broadly, I am interested in how machine learning can **augment engineering design, operation, and maintenance**, enabling intelligent systems that can reason about complex machines and improve their performance over time.
+More broadly, I am interested in how machine learning and data infrastructure can augment engineering design, operation, and maintenance, enabling intelligent systems that can reason about complex machines and improve their performance over time.
 
 In the long term, I aim to pursue a Ph.D. in AI and Machine Learning to advance intelligent methods that accelerate engineering design, operation, and decision-making in complex systems.
 
