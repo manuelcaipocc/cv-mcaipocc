@@ -1,29 +1,53 @@
+html, body {
+  background: transparent !important;
+}
+
+#page-bg {
+  display: none !important;
+}
 
 .page-body{
+  position: relative;
   background: linear-gradient(
-    -45deg,
-    #ffffff,
-    #eef2ff,
-    #e0f2fe,
-    #ede9fe
+    135deg,
+    #ffffff 0%,
+    #f8fbff 18%,
+    #eef4ff 38%,
+    #e6f6ff 62%,
+    #f1ecff 82%,
+    #ffffff 100%
   );
-  background-size:400% 400%;
-  animation:gradientMove 18s ease infinite;
+  background-size: 300% 300%;
+  animation: gradientMove 28s ease infinite;
 }
 
 .dark .page-body{
   background: linear-gradient(
-    -45deg,
-    #020617,
-    #0f172a,
-    #1e293b,
-    #312e81,
-    #1e3a8a
+    135deg,
+    #020617 0%,
+    #0b1220 20%,
+    #111c30 42%,
+    #1c2a4a 68%,
+    #2a2f6b 85%,
+    #0f172a 100%
   );
-  background-size:400% 400%;
-  animation:gradientMove 18s ease infinite;
+  background-size: 300% 300%;
+  animation: gradientMove 28s ease infinite;
 }
 
+.home-section-bg{
+  background: transparent !important;
+}
+
+.home-section{
+  background: transparent !important;
+}
+
+@keyframes gradientMove {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
 
 
 .keyword {
@@ -97,22 +121,6 @@ blockquote{
 }
 
 
-
-@keyframes gradientMove {
-  0% {background-position:0% 50%;}
-  50% {background-position:100% 50%;}
-  100% {background-position:0% 50%;}
-}
-
-
-
-body{
-  background:#f8fafc;
-}
-
-.dark body{
-  background:#020617;
-}
 
 .about-grid{
   display:grid;
