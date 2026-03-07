@@ -98,66 +98,62 @@ sections:
     content:
       title: Professional Journey
       text: |-
-        <div>
-          <!-- Current Role -->
+        <div class="timeline">
+
           <details open>
             <summary><strong>2024–Present | Data Scientist Werkstudent | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
-            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
+            <div class="timeline-entry blue">
               <ul>
                 <li><strong>Industrial ETL Pipeline:</strong> Designed and implemented a complete ETL process to transmit CtrlX sensor data to a relational database via Solace messaging, fully containerized in Docker</li>
                 <li><strong>Data Processing Optimization:</strong> Developed and optimized stored procedures for restructuring raw sensor streams into machine-learning-ready formats</li>
-                <li><strong>RUL Prediction & Orchestration:</strong> Built predictive models for Remaining Useful Life (RUL) of hydraulic systems using Hidden Markov Models, clustering, and XGBoost — all orchestrated via Dagster</li>
+                <li><strong>RUL Prediction & Orchestration:</strong> Built predictive models for Remaining Useful Life (RUL) of hydraulic systems using Hidden Markov Models, clustering, and XGBoost — orchestrated via Dagster</li>
               </ul>
             </div>
           </details>
 
-          <!-- Freeport-McMoRan Era -->
           <details open>
             <summary><strong>2021–2023 | Data Science – Freeport-McMoRan (Global Mining Operations)</strong></summary>
-            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #e74c3c;">
+            <div class="timeline-entry red">
+
               <details>
                 <summary><strong>Presidential Award – July 2022</strong></summary>
-                <div style="margin-left:20px;">
-                  Honored with the <strong>President’s Award</strong> and <strong>Innova 2022 (1st Place Digital Transformation)</strong> for developing predictive wear and failure models that improved plant availability by <strong>+1.5%</strong> (~10 M USD/year impact).
+                <div class="timeline-award">
+                  Honored with the <strong>President’s Award</strong> and <strong>Innova 2022 (1st Place Digital Transformation)</strong> for predictive wear models that improved plant availability by <strong>+1.5%</strong>.
                 </div>
               </details>
+
               <ul>
-                <li><strong>Global ML Deployment:</strong> Scaled <strong>Azure ML</strong> pipelines delivering daily wear predictions for 200+ heavy assets (crushers, HPGRs, mills).</li>
-                <li><strong>Data Infrastructure Optimization:</strong> Reduced SQL data preparation time from 8 h → 22 min through stored procedure re-engineering and pipeline parallelization.</li>
-                <li><strong>Adaptive Learning Systems:</strong> Implemented continuous retraining and model monitoring over 5 years of multivariate operational data.</li>
-                <li><strong>Decision Intelligence:</strong> Built Power BI environments visualizing KPIs for maintenance optimization and operational reliability.</li>
+                <li><strong>Global ML Deployment:</strong> Azure ML pipelines for 200+ heavy assets</li>
+                <li><strong>Data Infrastructure Optimization:</strong> SQL preparation time reduced from 8 h → 22 min</li>
+                <li><strong>Adaptive Learning Systems:</strong> Continuous retraining on multivariate operational data</li>
+                <li><strong>Decision Intelligence:</strong> Power BI dashboards for maintenance optimization</li>
               </ul>
+
             </div>
           </details>
 
-          <!-- Early Career -->
           <details>
             <summary><strong>2015–2021 | Engineering Foundations (Peru)</strong></summary>
-            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #2ecc71;">
+            <div class="timeline-entry green">
               <ul>
-                <li><strong>IMCO Servicios (2018–2021):</strong> Concurrent engineering roles during undergraduate studies:
-                  <ul>
-                    <li>Conducted <strong>finite element (FEM)</strong> and <strong>CFD simulations</strong> for mechanical structures and mining components (SAP2000, Ansys, Autodesk CFD).</li>
-                    </ul>
-                </li>
-                <li><strong>Academic Excellence:</strong> Graduated <strong>top 1 %</strong> in Mechanical Engineering from UNSA (Peru), awarded the national <strong>Beca Presidente de la República</strong>.</li>
+                <li><strong>IMCO Servicios:</strong> FEM and CFD simulations for mining components</li>
+                <li><strong>Academic Excellence:</strong> Top 1 % Mechanical Engineering (UNSA)</li>
               </ul>
             </div>
           </details>
 
-          <!-- Education -->
           <details>
             <summary><strong>Academic Milestones</strong></summary>
-            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
+            <div class="timeline-entry purple">
               <ul>
-                <li><strong>M.Sc. Computational Science and Engineering</strong> – <a href="https://www.uni-ulm.de/en/">University of Ulm</a> (2025–2027, berufsbegleitend)</li>
-                <li><strong>M.Sc. Advanced Precision Engineering</strong> – <a href="https://www.hs-furtwangen.de/">Hochschule Furtwangen</a> (2024–03.2026)<br>
-                Thesis: <em>“Fluid 4.0-compliant Framework for Digital Representation and Graph-based Neural Modeling of Hydraulic Systems.”</em></li>
-                <li><strong>Postgraduate Diploma – Machine Learning & Deep Learning</strong> – <a href="https://dc.ucsp.edu.pe/postgrado/diplomado-machine-learning/">Universidad Católica San Pablo</a> (2021–2022, Top 5 %)</li>
-                <li><strong>B.Sc. Mechanical Engineering</strong> – <a href="https://www.unsa.edu.pe/">Universidad Nacional de San Agustín de Arequipa</a> (2015–2019, Top 1 %)</li>
+                <li><strong>M.Sc. Computational Science and Engineering</strong> – University of Ulm</li>
+                <li><strong>M.Sc. Advanced Precision Engineering</strong> – Hochschule Furtwangen</li>
+                <li><strong>Postgraduate Diploma – ML & DL</strong> – UCSP</li>
+                <li><strong>B.Sc. Mechanical Engineering</strong> – UNSA</li>
               </ul>
             </div>
           </details>
+
         </div>
     design:
       columns: 2
