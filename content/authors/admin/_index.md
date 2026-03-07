@@ -254,9 +254,10 @@ Machine Learning Engineer with a background in Mechanical Engineering, working a
 
 I develop machine learning systems and data infrastructures for **industrial cyber-physical environments**, combining physical modeling, industrial domain knowledge, and scalable data pipelines to build reliable and interpretable models for real-world engineering applications.
 
+
 <div class="about-grid">
 
-<div>
+<div class="about-card">
 
 ### <span class="keyword-icon">Industry</span> Industrial Experience
 
@@ -266,24 +267,32 @@ Currently at **Bosch Rexroth**, I work on AI-based condition monitoring for hydr
 
 </div>
 
-<div>
+<div class="about-card">
 
 ### <span class="keyword-icon">Research</span> Research Direction
 
-My research focuses on **structured machine learning for engineered systems**, including: 
+My research focuses on **structured machine learning for engineered systems**, including:
 
-- graph-based representations of industrial systems 
-- physics-aware learning methods 
-- machine learning models that incorporate system architecture and physical constraints 
+- graph-based representations of industrial systems
+- physics-aware learning methods
+- machine learning models that incorporate system architecture and physical constraints
 
 More broadly, I am interested in how **machine learning and data infrastructures can augment engineering design, operation, and maintenance**, enabling intelligent systems that reason about complex machines and improve their performance over time.
 
-My long-term goal is to pursue a Ph.D. in Artificial Intelligence to advance intelligent methods that accelerate engineering design, industrial operation, and decision-making in complex systems.
-
 </div>
 
 </div>
+
 ---
+
+### <span class="keyword-icon">Goal</span> Vision
+
+My long-term goal is to pursue a Ph.D. in Artificial Intelligence and Machine Learning focused on the development of computational methods for the analysis, modeling, and design of complex engineering systems. 
+
+I am particularly interested in learning-based approaches that integrate machine learning with structured representations of engineering systems and physical knowledge. The objective is to develop intelligent computational tools that can support the analysis, design, and operation of advanced engineered systems, enabling more systematic and data-informed engineering processes.
+
+---
+
 
 ### Research Keywords
 
