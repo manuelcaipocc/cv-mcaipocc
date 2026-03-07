@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Machine Learning Engineer
+role: Machine Learning for Engineering Systems
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -42,8 +42,8 @@ profiles:
     url: https://www.linkedin.com/in/manuel-caipo-89845b151/
   # - icon: brands/youtube
   #   url: https://www.youtube.com/channel/UCIozN1DVvgKYvNW-AKg-_dg/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/citations?hl=en&user=kw1-DxQAAAAJ/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=yvkSMx8AAAAJ&hl=es&oi=ao
   - icon: academicons/cv
     url: uploads/resume.pdf
 
@@ -249,16 +249,21 @@ work:
 
 ## About Me
 
-<!-- I’m a Data Scientist and Mechanical Engineer, currently pursuing a **Master’s degree in [Computational Science and Engineering](https://www.uni-ulm.de/en/study/study-at-ulm-university/study-programmes/course-information/course/computational-science-and-engineering-master/)** at [Ulm University](https://www.uni-ulm.de/en/), in a career-integrated (berufsbegleitend) format.   -->
+I am a Machine Learning Engineer and Mechanical Engineer working at the intersection of **artificial intelligence and complex engineering systems**.
 
-I began my journey in Peru, where I graduated top of my class in Mechanical Engineering from the [Universidad Nacional de San Agustín de Arequipa (UNSA)](https://www.unsa.edu.pe/).  
-My academic performance earned me the prestigious [Beca Presidente del Perú](https://www.pronabec.gob.pe/concursos-becas-creditos/), a national full scholarship awarded to the country’s top students.
+My work focuses on developing **AI methods for cyber-physical systems**, combining physical modeling, industrial domain knowledge, and machine learning to build reliable and interpretable models for real-world engineering environments.
 
-After graduation, I was selected as one of 100 finalists out of 16,000 applicants to join [Freeport-McMoRan](https://www.fcx.com/), where I developed Machine Learning solutions for predictive maintenance (Remaining Useful Life) across global mining operations, combining: data science, reliability engineering, and real-world industrial systems.
+I have industrial experience designing and deploying machine learning systems for **large-scale industrial assets**, including predictive maintenance, anomaly detection, and remaining useful life (RUL) prediction using high-frequency sensor data.
 
-Currently, at [Bosch Rexroth](https://www.boschrexroth.com/), I design and orchestrate Docker-based ETL pipelines, real-time monitoring systems, and machine/deep learning models for predictive maintenance of hydraulic systems.  
-My work bridges industrial automation and AI-driven data architectures, connecting physical assets with scalable, intelligent software systems.
+Currently, at Bosch Rexroth, I work on AI-based condition monitoring for hydraulic systems, integrating **industrial data pipelines, real-time telemetry, and physics-informed machine learning** to support intelligent monitoring and decision-making in industrial environments.
 
+My research interests focus on **structured machine learning for engineered systems**, including graph-based representations, physics-aware learning, and methods that incorporate system architecture and physical constraints into learning algorithms.
+
+More broadly, I am interested in how machine learning can **augment engineering design, operation, and maintenance**, enabling intelligent systems that can reason about complex machines and improve their performance over time.
+
+I aim to pursue research and advanced development in **AI for engineering systems**, contributing to the development of robust and interpretable AI methods for industrial and robotic systems.
+
+In the long term, I aim to pursue a Ph.D. in AI and Machine Learning to advance intelligent methods that accelerate engineering design, operation, and decision-making in complex systems.
 ---
 
 ### Focus Areas
