@@ -1,27 +1,29 @@
-/* subtle grid pattern */
 
-body::before{
-  content:"";
-  position:fixed;
-  inset:0;
-
-  background-image:
-    linear-gradient(rgba(0,0,0,0.025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(0,0,0,0.025) 1px, transparent 1px);
-
-  background-size:40px 40px;
-
-  pointer-events:none;
-  z-index:-2;
+.page-body{
+  background: linear-gradient(
+    -45deg,
+    #ffffff,
+    #eef2ff,
+    #e0f2fe,
+    #ede9fe
+  );
+  background-size:400% 400%;
+  animation:gradientMove 18s ease infinite;
 }
 
-/* dark mode grid */
-
-.dark body::before{
-  background-image:
-    linear-gradient(rgba(255,255,255,0.035) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255,255,255,0.035) 1px, transparent 1px);
+.dark .page-body{
+  background: linear-gradient(
+    -45deg,
+    #020617,
+    #0f172a,
+    #1e293b,
+    #312e81,
+    #1e3a8a
+  );
+  background-size:400% 400%;
+  animation:gradientMove 18s ease infinite;
 }
+
 
 
 .keyword {
@@ -94,35 +96,7 @@ blockquote{
   color:#1e3a8a;
 }
 
-/* DARK MODE */
 
-.dark .hero-gradient .home-section-bg{
-  background: linear-gradient(
-    -45deg,
-    #020617,
-    #0f172a,
-    #1e293b,
-    #312e81,
-    #1e3a8a
-  );
-  background-size:400% 400%;
-  animation: gradientMove 18s ease infinite;
-}
-
-
-/* LIGHT MODE */
-
-.hero-gradient .home-section-bg{
-  background: linear-gradient(
-    -45deg,
-    #ffffff,
-    #eef2ff,
-    #e0f2fe,
-    #ede9fe
-  );
-  background-size:400% 400%;
-  animation:gradientMove 18s ease infinite;
-}
 
 @keyframes gradientMove {
   0% {background-position:0% 50%;}
@@ -130,25 +104,14 @@ blockquote{
   100% {background-position:0% 50%;}
 }
 
-/* GLOBAL DARK BACKGROUND */
 
-.dark .home-section-bg{
-  background: linear-gradient(
-    -45deg,
-    #020617,
-    #0f172a,
-    #1e293b,
-    #312e81,
-    #1e3a8a
-  );
-  background-size:400% 400%;
-  animation:gradientMove 20s ease infinite;
-}
-
-/* quitar fondo de secciones */
 
 body{
-  background:transparent;
+  background:#f8fafc;
+}
+
+.dark body{
+  background:#020617;
 }
 
 .about-grid{
