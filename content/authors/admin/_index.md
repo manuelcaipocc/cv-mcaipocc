@@ -261,17 +261,16 @@ My research interests focus on **structured machine learning for engineered syst
 
 More broadly, I am interested in how machine learning can **augment engineering design, operation, and maintenance**, enabling intelligent systems that can reason about complex machines and improve their performance over time.
 
-I aim to pursue research and advanced development in **AI for engineering systems**, contributing to the development of robust and interpretable AI methods for industrial and robotic systems.
+My long-term interest lies in developing robust and interpretable AI methods for engineering systems and cyber-physical environments.
 
 ---
 
 ### Focus Areas
 
-**Machine Learning for Engineering Systems**  
-Development of machine learning methods that integrate engineering knowledge and physical constraints to improve monitoring, reliability, and decision-making in complex industrial systems.
-
 <details>
-<summary>Technologies & Methods</summary>
+<summary><strong>Machine Learning for Engineering Systems</strong></summary>
+
+**Technologies**
 
 - Python (NumPy, Pandas, SciPy, PyTorch)
 - Time-series modeling
@@ -281,48 +280,54 @@ Development of machine learning methods that integrate engineering knowledge and
 
 </details>
 
+Development of machine learning methods that integrate engineering knowledge and physical constraints to improve monitoring, reliability, and decision-making in complex industrial systems.
 
-**Physics-Aware and Structured Machine Learning**  
-Research on learning approaches that incorporate system structure, causal relations, and physical constraints into machine learning models.
 
 <details>
-<summary>Technologies & Methods</summary>
+<summary><strong>Physics-Aware and Structured Machine Learning</strong></summary>
 
-- Graph Neural Networks  
-- Causal modeling approaches  
-- Physics-informed neural networks  
+**Technologies**
+
+- Graph Neural Networks
+- Causal modeling approaches
+- Physics-informed neural networks
 - Explainable AI (SHAP, PDP)
 
 </details>
 
+Research on learning approaches that incorporate system structure, causal relations, and physical constraints into machine learning models.
 
-**Industrial AI and Predictive Maintenance**  
-Design of ML systems for anomaly detection, degradation modeling, and remaining useful life (RUL) prediction using high-frequency sensor data from large-scale industrial assets.
 
 <details>
-<summary>Technologies & Methods</summary>
+<summary><strong>Industrial AI and Predictive Maintenance</strong></summary>
 
-- LSTM / CNN architectures for time-series  
-- Survival models for RUL prediction  
-- Feature engineering for industrial sensor data  
-- Explainable AI for model interpretation
+**Technologies**
+
+- LSTM / CNN architectures
+- Survival models for RUL prediction
+- Feature engineering for industrial sensor data
+- Explainable AI
 
 </details>
 
+Design of ML systems for anomaly detection, degradation modeling, and remaining useful life (RUL) prediction using high-frequency sensor data from large-scale industrial assets.
 
-**Scalable Data and ML Systems for Industry**  
-Development of data pipelines, telemetry systems, and deployable machine learning architectures for cyber-physical systems.
+
 
 <details>
-<summary>Technologies & Methods</summary>
+<summary><strong>Scalable Data and ML Systems for Industry</strong></summary>
 
-- Docker-based architectures  
-- Dagster / Apache Airflow pipelines  
-- SQL / NoSQL systems (PostgreSQL, InfluxDB, Snowflake)  
-- Streaming technologies (Kafka, Solace, MQTT)  
+**Technologies**
+
+- Docker-based architectures
+- Dagster / Apache Airflow pipelines
+- SQL / NoSQL systems (PostgreSQL, InfluxDB, Snowflake)
+- Streaming technologies (Kafka, Solace, MQTT)
 - Cloud ML systems (Azure ML, Databricks)
 
 </details>
+
+Development of data pipelines, telemetry systems, and deployable machine learning architectures for cyber-physical systems.
 
 In the long term, I aim to pursue a Ph.D. in AI and Machine Learning to advance intelligent methods that accelerate engineering design, operation, and decision-making in complex systems.
 
