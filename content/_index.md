@@ -37,9 +37,8 @@ sections:
     #   background:
     #     color: '#242424'
     design:
-      background:
-        css_class: hero-gradient
-        text_color_light: true
+      css_class: hero-gradient
+      text_color_light: true
         # image:
         #   filename: iot1.png
         #   filters:
