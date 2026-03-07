@@ -98,65 +98,48 @@ sections:
     content:
       title: Professional Journey
       text: |-
-        <div class="timeline">
+        <details open>
+        <summary><strong>2024–Present | Data Scientist Werkstudent | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
 
-          <details open>
-            <summary><strong>2024–Present | Data Scientist Werkstudent | Masterand – Bosch Rexroth (Ulm, Germany)</strong></summary>
-            <div class="timeline-entry blue">
-              <ul>
-                <li><strong>Industrial ETL Pipeline:</strong> Designed and implemented a complete ETL process to transmit CtrlX sensor data to a relational database via Solace messaging, fully containerized in Docker</li>
-                <li><strong>Data Processing Optimization:</strong> Developed and optimized stored procedures for restructuring raw sensor streams into machine-learning-ready formats</li>
-                <li><strong>RUL Prediction & Orchestration:</strong> Built predictive models for Remaining Useful Life (RUL) of hydraulic systems using Hidden Markov Models, clustering, and XGBoost — orchestrated via Dagster</li>
-              </ul>
-            </div>
-          </details>
+        - **Industrial ETL Pipeline:** Designed and implemented a complete ETL process to transmit CtrlX sensor data to a relational database via Solace messaging, fully containerized in Docker  
+        - **Data Processing Optimization:** Developed and optimized stored procedures for restructuring raw sensor streams into machine-learning-ready formats  
+        - **RUL Prediction & Orchestration:** Built predictive models for Remaining Useful Life (RUL) of hydraulic systems using Hidden Markov Models, clustering, and XGBoost — orchestrated via Dagster  
 
-          <details open>
-            <summary><strong>2021–2023 | Data Science – Freeport-McMoRan (Global Mining Operations)</strong></summary>
+        </details>
 
-            <div class="timeline-entry red">
 
-              <div class="timeline-award">
-                <strong>Presidential Award – July 2022:</strong> Honored with the 
-                <strong>President’s Award</strong> and 
-                <strong>Innova 2022 (1st Place Digital Transformation)</strong> 
-                for predictive wear models that improved plant availability by 
-                <strong>+1.5%</strong>.
-              </div>
+        <details open>
+        <summary><strong>2021–2023 | Data Science – Freeport-McMoRan (Global Mining Operations)</strong></summary>
 
-              <ul>
-                <li><strong>Global ML Deployment:</strong> Azure ML pipelines for 200+ heavy assets</li>
-                <li><strong>Data Infrastructure Optimization:</strong> SQL preparation time reduced from 8 h → 22 min</li>
-                <li><strong>Adaptive Learning Systems:</strong> Continuous retraining on multivariate operational data</li>
-                <li><strong>Decision Intelligence:</strong> Power BI dashboards for maintenance optimization</li>
-              </ul>
+        **Presidential Award – July 2022**  
+        Honored with the **President’s Award** and **Innova 2022 (1st Place Digital Transformation)** for predictive wear models improving plant availability by **+1.5%**.
 
-            </div>
-          </details>
+        - **Global ML Deployment:** Azure ML pipelines for 200+ heavy assets  
+        - **Data Infrastructure Optimization:** SQL preparation time reduced from 8h → 22min  
+        - **Adaptive Learning Systems:** Continuous retraining on multivariate operational data  
+        - **Decision Intelligence:** Power BI dashboards for maintenance optimization  
 
-          <details>
-            <summary><strong>2015–2021 | Engineering Foundations (Peru)</strong></summary>
-            <div class="timeline-entry green">
-              <ul>
-                <li><strong>IMCO Servicios:</strong> FEM and CFD simulations for mining components</li>
-                <li><strong>Academic Excellence:</strong> Top 1 % Mechanical Engineering (UNSA)</li>
-              </ul>
-            </div>
-          </details>
+        </details>
 
-          <details>
-            <summary><strong>Academic Milestones</strong></summary>
-            <div class="timeline-entry purple">
-              <ul>
-                <li><strong>M.Sc. Computational Science and Engineering</strong> – University of Ulm</li>
-                <li><strong>M.Sc. Advanced Precision Engineering</strong> – Hochschule Furtwangen</li>
-                <li><strong>Postgraduate Diploma – ML & DL</strong> – UCSP</li>
-                <li><strong>B.Sc. Mechanical Engineering</strong> – UNSA</li>
-              </ul>
-            </div>
-          </details>
 
-        </div>
+        <details>
+        <summary><strong>2015–2021 | Engineering Foundations (Peru)</strong></summary>
+
+        - **IMCO Servicios:** FEM and CFD simulations for mining components  
+        - **Academic Excellence:** Top 1% Mechanical Engineering (UNSA)
+
+        </details>
+
+
+        <details>
+        <summary><strong>Academic Milestones</strong></summary>
+
+        - **M.Sc. Computational Science and Engineering** — University of Ulm  
+        - **M.Sc. Advanced Precision Engineering** — Hochschule Furtwangen  
+        - **Postgraduate Diploma – Machine Learning & Deep Learning** — UCSP  
+        - **B.Sc. Mechanical Engineering** — UNSA  
+
+        </details>
     design:
       columns: 2
       css_class: professional-timeline
