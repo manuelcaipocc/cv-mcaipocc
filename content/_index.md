@@ -110,7 +110,7 @@ sections:
         <details open>
         <summary><strong>2021–2023 | Data Science – Freeport-McMoRan (Global Mining Operations)</strong></summary>
 
-        **Presidential Award – July 2022**  
+        **Presidential Award — July 2022**  
         Honored with the **President’s Award** and **Innova 2022 (1st Place Digital Transformation)** for predictive wear models improving plant availability by **+1.5%**.
 
         - **Global ML Deployment:** Azure ML pipelines for 200+ heavy assets  
@@ -120,7 +120,6 @@ sections:
 
         </details>
 
-
         <details>
         <summary><strong>2015–2021 | Engineering Foundations (Peru)</strong></summary>
 
@@ -129,13 +128,12 @@ sections:
 
         </details>
 
-
         <details>
         <summary><strong>Academic Milestones</strong></summary>
 
         - **M.Sc. Computational Science and Engineering** — University of Ulm  
         - **M.Sc. Advanced Precision Engineering** — Hochschule Furtwangen  
-        - **Postgraduate Diploma – Machine Learning & Deep Learning** — UCSP  
+        - **Postgraduate Diploma — Machine Learning & Deep Learning** — UCSP  
         - **B.Sc. Mechanical Engineering** — UNSA  
 
         </details>

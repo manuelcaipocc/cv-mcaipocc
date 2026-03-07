@@ -271,20 +271,6 @@ blockquote{
   100%{background-position:0% 50%;}
 }
 
-.professional-timeline summary{
-  font-size:0.95rem;
-  font-weight:600;
-  cursor:pointer;
-}
-
-.professional-timeline ul{
-  margin-top:6px;
-}
-
-.professional-timeline li{
-  font-size:0.88rem;
-  line-height:1.6;
-}
 
 .timeline-entry{
   margin-left:6px;
@@ -315,6 +301,52 @@ blockquote{
   font-size:0.87rem;
 }
 
+/* ============================= */
+/* Professional Timeline Styling */
+/* ============================= */
+
+.professional-timeline{
+  font-size:0.96rem;
+  line-height:1.65;
+}
+
 .professional-timeline details{
-  margin-bottom:14px;
+  border-left:2px solid #3b82f6;
+  padding-left:14px;
+  margin-bottom:18px;
+}
+
+.professional-timeline summary{
+  font-size:1rem;
+  font-weight:600;
+  cursor:pointer;
+}
+
+.professional-timeline p{
+  font-size:0.96rem;
+  margin-top:6px;
+  margin-bottom:6px;
+}
+
+.professional-timeline ul{
+  margin-top:6px;
+  margin-bottom:10px;
+}
+
+.professional-timeline li{
+  font-size:0.96rem;
+  line-height:1.65;
+  margin-bottom:3px;
+}
+
+.professional-timeline strong{
+  font-weight:600;
+}
+
+.professional-timeline p strong{
+  color:#1e3a8a;
+}
+
+[data-theme="dark"] .professional-timeline p strong{
+  color:#93c5fd;
 }
