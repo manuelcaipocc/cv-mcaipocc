@@ -260,9 +260,9 @@ I develop machine learning systems and data infrastructures for **industrial cyb
 
 ### <span class="keyword-icon">Industry</span> Industrial Experience
 
-During my work in the mining industry at **Freeport-McMoRan**, I developed machine learning systems for predictive maintenance...
+During my work in the mining industry at **Freeport-McMoRan**, I developed machine learning systems for predictive maintenance of large-scale equipment, improving asset availability and enabling data-driven operational decision-making.
 
-Currently at **Bosch Rexroth**, I work on AI-based condition monitoring for hydraulic systems.
+Currently at **Bosch Rexroth**, I work on AI-based condition monitoring for hydraulic systems, designing industrial **data pipelines and real-time telemetry architectures** that integrate sensor streams, messaging systems, and machine learning models for intelligent monitoring and decision support.
 
 </div>
 
@@ -270,11 +270,15 @@ Currently at **Bosch Rexroth**, I work on AI-based condition monitoring for hydr
 
 ### <span class="keyword-icon">Research</span> Research Direction
 
-My research focuses on **structured machine learning for engineered systems**, including:
+My research focuses on **structured machine learning for engineered systems**, including: 
 
-- graph-based representations
-- physics-aware learning
-- ML models with physical constraints
+- graph-based representations of industrial systems 
+- physics-aware learning methods 
+- machine learning models that incorporate system architecture and physical constraints 
+
+More broadly, I am interested in how **machine learning and data infrastructures can augment engineering design, operation, and maintenance**, enabling intelligent systems that reason about complex machines and improve their performance over time.
+
+My long-term goal is to pursue a Ph.D. in Artificial Intelligence to advance intelligent methods that accelerate engineering design, industrial operation, and decision-making in complex systems.
 
 </div>
 
