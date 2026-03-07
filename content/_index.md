@@ -38,11 +38,13 @@ sections:
     #     color: '#242424'
     design:
       background:
-        image:
-          filename: iot1.png
-          filters:
-            brightness: 0.5
+        css_class: hero-gradient
         text_color_light: true
+        # image:
+        #   filename: iot1.png
+        #   filters:
+        #     brightness: 0.5
+        # text_color_light: true
         # image:
         #   # Add your image background to `assets/media/`.
         #   filename: stacked-peaks.svg
