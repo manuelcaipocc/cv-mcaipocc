@@ -246,20 +246,26 @@ work:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
 
-## About
+<div class="about-card">
+
+### <span class="keyword-icon">About</span>
 
 Machine Learning Engineer with a background in Mechanical Engineering, working at the intersection of **artificial intelligence, data engineering, and complex engineering systems**.
 
 I develop machine learning systems and data infrastructures for **industrial cyber-physical environments**, combining physical modeling, industrial domain knowledge, and scalable data pipelines to build reliable and interpretable models for real-world engineering applications.
 
+</div>
+
+---
 
 <div class="about-grid">
 
 <div class="about-card">
 
-### <span class="keyword-icon">Industry</span> Industrial Experience
+### <span class="keyword-icon">Industry</span>
 
 During my work in the mining industry at **Freeport-McMoRan**, I developed machine learning systems for predictive maintenance of large-scale equipment, improving asset availability and enabling data-driven operational decision-making.
 
@@ -269,7 +275,7 @@ Currently at **Bosch Rexroth**, I work on AI-based condition monitoring for hydr
 
 <div class="about-card">
 
-### <span class="keyword-icon">Research</span> Research Direction
+### <span class="keyword-icon">Research</span>
 
 My research focuses on **structured machine learning for engineered systems**, including:
 
@@ -285,14 +291,17 @@ More broadly, I am interested in how **machine learning and data infrastructures
 
 ---
 
-### <span class="keyword-icon">Goal</span> Vision
+<div class="about-card">
 
-My long-term goal is to pursue a Ph.D. in Artificial Intelligence and Machine Learning focused on the development of computational methods for the analysis, modeling, and design of complex engineering systems. 
+### <span class="keyword-icon">Vision</span>
+
+My long-term goal is to pursue a Ph.D. in Artificial Intelligence and Machine Learning focused on the development of computational methods for the analysis, modeling, and design of complex engineering systems.
 
 I am particularly interested in learning-based approaches that integrate machine learning with structured representations of engineering systems and physical knowledge. The objective is to develop intelligent computational tools that can support the analysis, design, and operation of advanced engineered systems, enabling more systematic and data-informed engineering processes.
 
----
+</div>
 
+---
 
 ### Research Keywords
 
@@ -305,9 +314,9 @@ I am particularly interested in learning-based approaches that integrate machine
 
 ---
 
-<div class="focus-area">
+<div class="about-card">
 
-### Focus Areas
+### <span class="keyword-icon">Focus Areas</span>
 
 <details>
 <summary><strong>Machine Learning for Engineering Systems</strong></summary>
