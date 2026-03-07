@@ -102,3 +102,58 @@ blockquote{
   50% {background-position:100% 50%;}
   100% {background-position:0% 50%;}
 }
+
+/* GLOBAL DARK BACKGROUND */
+
+[data-theme="dark"] body {
+  background: linear-gradient(
+    -45deg,
+    #020617,
+    #0f172a,
+    #1e293b,
+    #1e3a8a
+  );
+  background-size: 400% 400%;
+  animation: gradientMove 20s ease infinite;
+}
+
+/* quitar fondo de secciones */
+
+[data-theme="dark"] .home-section {
+  background: transparent !important;
+}
+
+[data-theme="dark"] .home-section-bg{
+  background: transparent !important;
+}
+
+[data-theme="light"] body{
+  background:#f8fafc;
+}
+
+.about-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:40px;
+  margin-top:20px;
+}
+
+@media (max-width:900px){
+  .about-grid{
+    grid-template-columns:1fr;
+  }
+}
+
+.keyword-icon{
+  display:inline-block;
+  padding:3px 10px;
+  margin-right:8px;
+  border-radius:12px;
+  font-size:0.7rem;
+  font-weight:600;
+
+  background:linear-gradient(135deg,#3b82f6,#6366f1);
+  color:white;
+
+  letter-spacing:0.03em;
+}
