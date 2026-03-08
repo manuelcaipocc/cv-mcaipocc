@@ -295,9 +295,9 @@ More broadly, I am interested in how **machine learning and data infrastructures
 
 ### <span class="keyword-icon">Vision</span>
 
-My long-term goal is to pursue a Ph.D. in Artificial Intelligence and Machine Learning focused on the development of computational methods for the analysis, modeling, and design of complex engineering systems.
+My long-term goal is to pursue a Ph.D. in Artificial Intelligence and Machine Learning, with a focus on computational methods for the analysis, modeling, and design of complex engineering systems.
 
-I am particularly interested in learning-based approaches that integrate machine learning with structured representations of engineering systems and physical knowledge. The objective is to develop intelligent computational tools that can support the analysis, design, and operation of advanced engineered systems, enabling more systematic and data-informed engineering processes.
+My research interests lie in learning-based approaches that integrate machine learning with structured representations of engineering systems and physical knowledge. I am especially interested in developing intelligent computational tools that support the analysis, design, and operation of advanced engineered systems, enabling more systematic and data-informed engineering processes.
 
 </div>
 
