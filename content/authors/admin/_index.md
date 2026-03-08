@@ -267,9 +267,9 @@ I develop machine learning systems and data infrastructures for **industrial cyb
 
 ### <span class="keyword-icon">Industry</span>
 
-During my work in the mining industry at **Freeport-McMoRan**, I developed machine learning systems for predictive maintenance of large-scale equipment, improving asset availability and enabling data-driven operational decision-making.
+During my work in the mining industry at [Freeport-McMoRan](https://www.fcx.com/), following a highly selective recruitment process (100 selected from over 16,000 applicants), I developed machine learning systems for predictive maintenance of large-scale equipment, improving asset availability and enabling data-driven operational decision-making.
 
-Currently at **Bosch Rexroth**, I work on AI-based condition monitoring for hydraulic systems, designing industrial **data pipelines and real-time telemetry architectures** that integrate sensor streams, messaging systems, and machine learning models for intelligent monitoring and decision support.
+Currently at [Bosch Rexroth](https://www.boschrexroth.com/de/de/), I work on AI-based condition monitoring for hydraulic systems, designing industrial **data pipelines and real-time telemetry architectures** that integrate sensor streams, messaging systems, and machine learning models for intelligent monitoring and decision support.
 
 </div>
 
