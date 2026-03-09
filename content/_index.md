@@ -13,7 +13,7 @@ sections:
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: <br/><br/> ML & Data Engineer
-      text: Industrial AI • Data Pipelines • Research for Engineering Systems
+      text: AI Research • Industrial AI • Data Engineering
     design:
       css_class: hero-gradient
       text_color_light: true
