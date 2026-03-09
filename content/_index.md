@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Manuel Caipo | Machine Learning Engineer"
+title: "Manuel Caipo"
 date: 2025-03-08
 type: landing
 

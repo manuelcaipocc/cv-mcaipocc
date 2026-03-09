@@ -4,11 +4,12 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Manuel Caipo | Machine Learning Researcher & Mechanical Engineer
+title: Manuel Caipo
 # Website URL
-baseURL: 'https://manuelcaipocc.github.io/testcv/'
+baseURL: 'https://manuelcaipocc.github.io/'
+languageCode: en-us
 
-description: "Research portfolio of Manuel Caipo. Focused on Physics-aware Machine Learning, topology-aware models, and interpretable AI for complex cyber-physical systems and industrial reliability."
+description: "Machine Learning Researcher and Mechanical Engineer focused on physics-aware AI, topology-aware models, and interpretable machine learning for industrial systems."
 
 params:
   contact_links:
