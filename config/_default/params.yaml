@@ -13,8 +13,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: ''
+    org_name: 'Manuel Caipo'
+    description: 'Manuel Caipo is a Machine Learning Engineer focused on Industrial AI, Data Engineering, and research-driven computational modeling for complex engineering systems.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: '0097edMDYaki1AiYjEirs57bXPPE_hb_kN-m4fKTcQI'
     baidu: ''
 
 # Site header

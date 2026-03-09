@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Manuel Caipo | Machine Learning Engineer"
 date: 2025-03-08
 type: landing
 
@@ -13,6 +13,7 @@ sections:
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: <br/><br/> ML & Data Engineer
+      text: Industrial AI • Data Pipelines • Research for Engineering Systems
     design:
       css_class: hero-gradient
       text_color_light: true
