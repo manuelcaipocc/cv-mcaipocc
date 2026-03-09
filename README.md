@@ -2,7 +2,7 @@
 
 Welcome to my professional portfolio. I specialize in **AI-powered Predictive Maintenance** and **scalable data architectures**, bridging heavy industry (Mechanical Engineering) with advanced Machine Learning.
 
-**Live portfolio:** https://manuelcaipocc.github.io/cv-mcaipocc/
+**Live portfolio:** https://manuelcaipocc.github.io/
 
 ---
 
